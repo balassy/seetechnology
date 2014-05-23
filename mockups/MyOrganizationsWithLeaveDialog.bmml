@@ -1,0 +1,69 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1276" measuredH="931" mockupW="1216" mockupH="911">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="911" measuredW="1024" measuredH="911" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="911">
+          <text>My%20Organizations%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Manage</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="98" y="803" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="245" controlTypeID="com.balsamiq.mockups::Component" x="98" y="198" w="949" h="498" measuredW="949" measuredH="498" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22103%2C284%2C514%2C308%22%20href%3D%22OrgProfile.bmml%22%20alt%3D%22OrgProfile%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22929%2C283%2C987%2C310%22%20href%3D%22MyOrganizationsWithLeaveDialog.bmml%22%20alt%3D%22MyOrganizationsWithLeaveDialog%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22173%2C399%2C470%2C418%22%20href%3D%22OrgProfile.bmml%22%20alt%3D%22OrgProfile%22%20id%3D%2214%22/%3E</map>
+        <src>./assets/symbols.bmml%23My%2520Organizations</src>
+      </controlProperties>
+    </control>
+    <control controlID="246" controlTypeID="com.balsamiq.mockups::ModalScreen" x="60" y="80" w="1024" h="823" measuredW="320" measuredH="240" zOrder="4" locked="true" isInGroup="-1"/>
+    <control controlID="247" controlTypeID="com.balsamiq.mockups::Component" x="272" y="262" w="600" h="238" measuredW="600" measuredH="238" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22717%2C429%2C797%2C456%22%20href%3D%22MyOrganizations.bmml%22%20alt%3D%22MyOrganizations%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22781%2C270%2C797%2C286%22%20href%3D%22MyOrganizations.bmml%22%20alt%3D%22MyOrganizations%22%20id%3D%225%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="600" h="238"/>
+        <override controlID="1" x="17" y="23" w="-1" h="-1">
+          <text>Are%20you%20sure%3F</text>
+        </override>
+        <override controlID="2" x="15" y="57" w="570" h="-1"/>
+        <override controlID="3" x="15" y="157" w="570" h="-1"/>
+        <override controlID="4" x="505" y="187" w="-1" h="-1">
+          <href>MyOrganizations%26bm%3BMyOrganizations.bmml%26bm%3BMyOrganizations.bmml%26bm%3BMyOrganizations.bmml</href>
+          <text>Cancel</text>
+        </override>
+        <override controlID="5" x="569" y="28" w="-1" h="-1">
+          <href>MyOrganizations%26bm%3BMyOrganizations.bmml%26bm%3BMyOrganizations.bmml%26bm%3BMyOrganizations.bmml</href>
+        </override>
+        <src>./assets/symbols.bmml%23Dialog</src>
+      </controlProperties>
+    </control>
+    <control controlID="249" controlTypeID="com.balsamiq.mockups::Paragraph" x="292" y="348" w="561" h="55" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Do%20you%20really%20want%20to%20leave%20*Budapest%20University%20of%20Technology%20and%20Economics*%3F%20%0A%20%0AAfter%20leaving%20you%20will%20not%20be%20displayed%20as%20a%20member%20on%20the%20organization%27s%20page.</text>
+      </controlProperties>
+    </control>
+    <control controlID="250" controlTypeID="com.balsamiq.mockups::Button" x="627" y="449" w="-1" h="-1" measuredW="132" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>MyOrganizations%26bm%3BMyOrganizations.bmml%26bm%3BMyOrganizations.bmml%26bm%3BMyOrganizations.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22567%2C429%2C699%2C456%22%20href%3D%22MyOrganizations.bmml%22%20alt%3D%22MyOrganizations%22%20id%3D%22250%22/%3E</map>
+        <size>16</size>
+        <text>Yes%2C%20leave%20BME</text>
+      </controlProperties>
+    </control>
+    <control controlID="251" controlTypeID="com.balsamiq.mockups::StickyNote" x="1106" y="114" w="170" h="386" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>*IMPORTANT%3A*%0A%20%0AThe%20user%20cannot%20leave%20the%20organization%20if%20she%20the%20only%20administrator%20of%20it.%20In%20this%20case%20the%20following%20error%20message%20is%20displayed%20in%20the%20dialog%20%28X%20is%20the%20name%20of%20the%20organization%29%3A%0A%20%0A_You%20cannot%20leave%20*X*%2C%20because%20you%20are%20its%20only%20administrator..%20Please%20promote%20someone%20else%20to%20manage%20*X*%20before%20leaving%20it._%0A%20%0AThis%20check%20must%20be%20also%20done%20to%20all%20sub-organizations%21</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

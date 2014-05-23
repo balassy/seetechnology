@@ -1,0 +1,183 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1245" measuredH="2228" mockupW="1185" mockupH="2208">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="2208" measuredW="1024" measuredH="2208" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="2208">
+          <text>About%20us%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/About</text>
+        </override>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="98" y="2082" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::Title" x="98" y="198" w="-1" h="-1" measuredW="169" measuredH="35" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>The%20Project</text>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::Paragraph" x="98" y="248" w="668" h="80" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SEETechnology%20is%20a%20part%20of%20South%20East%20Europe%20%28SEE%29%20Transnational%20Cooperation%20Programme.%20%uFEFFThe%20project%20is%20about%20co-operation%20of%20SEE%20%28South%20East%20Europe%29%20science%20parks%20for%20the%20promotion%20of%20transnational%20market%20uptake%20of%20R%26D%20results%20and%20technologies%20by%20SMEs.%20It%27s%20about%20creating%20the%20environment%20for%20innovative%20entrepreneurship.%u200B</text>
+      </controlProperties>
+    </control>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::Label" x="98" y="334" w="-1" h="-1" measuredW="122" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Challenges</text>
+      </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="com.balsamiq.mockups::Paragraph" x="98" y="381" w="668" h="18" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20SEETechnology%20project%20responds%20to%203%20main%20identified%20challenges%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Canvas" x="98" y="407" w="200" h="129" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::Canvas" x="324" y="407" w="200" h="129" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::Canvas" x="550" y="407" w="200" h="129" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::Paragraph" x="106" y="422" w="177" h="99" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%uFEFF1.%20%20%0A%20%0ASMEs%20in%20the%20SEE%20region%20are%20especially%20weak%20in%20terms%20of%20innovation%20and%20access%20to%20innovation</text>
+      </controlProperties>
+    </control>
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::Paragraph" x="336" y="422" w="177" h="114" measuredW="200" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2.%20%0A%20%0Athere%20is%20a%20mismatch%20between%20the%20supply%20and%20demand%20of%20research%20products%20at%20local/%20regional/%20transnational%20level</text>
+      </controlProperties>
+    </control>
+    <control controlID="181" controlTypeID="com.balsamiq.mockups::Paragraph" x="562" y="422" w="177" h="114" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.%20%0A%20%0Auniversity%20connected%20science%20park%20lack%20resources%20and%20knowledge%20and%20do%20not%20work%20closely%20with%20SMEs</text>
+      </controlProperties>
+    </control>
+    <control controlID="182" controlTypeID="com.balsamiq.mockups::Paragraph" x="98" y="561" w="668" h="129" measuredW="200" measuredH="80" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Therefore%20the%20main%20objective%20is%20to%20*improve%20and%20develop%20support%20services*%20to%20innovative%20SMEs%20provided%20by%20university%20based%20SME-support%20centres%20and%20science%20parks%20in%20order%20to%20facilitate%20the%20take-up%20of%20research%20ideas%20and%20products%20through%20better%20access%20to%20knowledge%2C%20resources%20and%20markets%20locally%20and%20at%20transnational%20level.%20%0A%20%0AThe%20project%20ultimately%20targets%20innovative%20SMEs%2C%20which%20are%20able%20to%20embrace%20research%20products%20or%20may%20be%20the%20carriers%20of%20such%20ideas%20but%20currently%20face%20difficulties%20in%20access%20to%20management-type%20knowledge%2C%20facilities%20and%20support%20services.%20The%20project%20aims%20at%20the%20*establishment%20of%20new%20and%20durable%20joint%20transnational%20services%2C%20tools%20and%20frameworks*%20and%20will%20put%20into%20practice%20developed%20and%20improved%20methods%20and%20explored%20good%20practices.</text>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::Label" x="98" y="715" w="-1" h="-1" measuredW="118" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Objectives</text>
+      </controlProperties>
+    </control>
+    <control controlID="184" controlTypeID="com.balsamiq.mockups::Paragraph" x="98" y="759" w="668" h="371" measuredW="200" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*%u200Ba%29%20Improve%20the%20market%20potential%20and%20entry%20of%20research-intensive%20and%20high-added%20value%20products*%u200B%u200B%20of%20innovative%20SMEs%20by%20the%20development%20of%20the%20%u200B%u200B%u200B%u200Bquality%20and%20portfolio%20of%20SME-support%20services%20at%20university-based%20SME-support%20centres.%0A%20%0A*%u200B%u200Bb%29%20Improve%20access%20of%20%u200Binnovative%20SMEs%20to%20human%20and%20physical%20resources*%u200B%u200B%20through%20university-based%20SME-support%20centres%20by%20pooling%20%u200B%u200B%u200B%u200Band%20registering%20such%20resources%20at%20a%20transnational%20level%20and%20mobilising%20new%20and%20unused%20resources%2C%u200B%0A%20%0A*%u200B%u200Bc%29%20Improve%20%u200Baccess%20of%20SMEs%20to%20research%20ideas%20and%20products%20and%20to%20services*%20offered%20by%20universities%20by%20developing%20effective%20%u200B%u200B%u200Bmeans%20of%20communication%20and%20publicity.%20%0A%20%0AThe%20project%20aims%20at%20the%20establishment%20of%20new%20and%20durable%20joint%20transnational%20services%2C%20tools%20and%20frameworks%20and%20will%20put%20into%20practice%20developed%20and%20improved%20methods%20and%20explored%20good%20practices.%0A%20%0APermanent%20co-operation%20and%20partnership%20schemes%20operated%20by%20SME%20support%20centres%20will%20be%20set%20up%20and%20web%20outreach%20and%20stakeholder%20platforms%20in%20the%20form%20of%20Innovation%20Labs%20will%20enhance%20the%20reach%20of%20SMEs%20by%20the%20centres.%20%0A%20%0A%uFEFFThe%2024%20month-long%20project%20aims%20at%20creating%20a%20sustainable%20framework%20after%20the%20project%20ends.%20Further%2C%20project%20partners%20prepare%20policy%20recommendations%20regarding%20R%26D%20transfer%20and%20business%20support%20activities%20based%20on%20the%20project%20experience%20and%20the%20involvement%20of%20innovation%20labs%20in%20order%20to%20influence%20the%20regulatory%20framework%20in%20the%20favour%20of%20the%20market%20uptake%20of%20research%20results.%20The%20project%27s%20most%20important%20outputs%20are%20tested%20joint%20new%20services%2C%20interconnections%20of%20these%20services%2C%20targeted%20policy%20recommendations%2C%20an%20operational%20multi-purpose%20ICT%20tool%20with%20rich%20and%20structured%20database.</text>
+      </controlProperties>
+    </control>
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::IconLabel" x="805" y="478" w="-1" h="-1" measuredW="145" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TwitterIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%5BFollow%20us%20on%20Twitter%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::IconLabel" x="805" y="522" w="-1" h="-1" measuredW="148" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FacebookIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%5BJoin%20us%20on%20Facebook%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::Label" x="805" y="248" w="-1" h="-1" measuredW="85" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BThe%20Project%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="189" controlTypeID="com.balsamiq.mockups::Label" x="805" y="285" w="-1" h="-1" measuredW="81" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BChallenges%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::Label" x="805" y="328" w="-1" h="-1" measuredW="79" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BObjectives%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::Label" x="805" y="371" w="-1" h="-1" measuredW="62" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BPartners%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::Label" x="805" y="414" w="-1" h="-1" measuredW="59" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BContact%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="193" controlTypeID="com.balsamiq.mockups::StickyNote" x="1100" y="225" w="145" h="253" measuredW="109" measuredH="123" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20menu%20on%20the%20sidebar%20moves%20down%20as%20the%20user%20scrolls%20the%20page%20and%20highlights%20the%20section%20currently%20in%20the%20view.%0A%20%0ATo%20accomplish%20this%2C%20the%20Scrollspy%20and%20Affix%20components%20of%20Bootstrap%20can%20be%20used.</text>
+      </controlProperties>
+    </control>
+    <control controlID="194" controlTypeID="com.balsamiq.mockups::Label" x="98" y="1145" w="-1" h="-1" measuredW="92" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Partners</text>
+      </controlProperties>
+    </control>
+    <control controlID="196" controlTypeID="com.balsamiq.mockups::Image" x="98" y="1184" w="700" h="382" measuredW="851" measuredH="464" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Partners%2520map.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="197" controlTypeID="com.balsamiq.mockups::Label" x="98" y="1607" w="-1" h="-1" measuredW="88" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="198" controlTypeID="com.balsamiq.mockups::Label" x="98" y="1645" w="-1" h="-1" measuredW="612" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>May%20you%20have%20any%20questions%20or%20comments%20concerning%20the%20project%2C%20please%20contact%20us%20via%20the%20form%20below.</text>
+      </controlProperties>
+    </control>
+    <control controlID="199" controlTypeID="com.balsamiq.mockups::Label" x="98" y="1681" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="200" controlTypeID="com.balsamiq.mockups::TextInput" x="98" y="1702" w="700" h="-1" measuredW="79" measuredH="26" zOrder="29" locked="false" isInGroup="-1"/>
+    <control controlID="201" controlTypeID="com.balsamiq.mockups::Label" x="98" y="1746" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E-mail%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="202" controlTypeID="com.balsamiq.mockups::TextInput" x="98" y="1767" w="700" h="-1" measuredW="79" measuredH="26" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="203" controlTypeID="com.balsamiq.mockups::Label" x="98" y="1811" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Subject%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="204" controlTypeID="com.balsamiq.mockups::TextInput" x="98" y="1832" w="700" h="-1" measuredW="79" measuredH="26" zOrder="33" locked="false" isInGroup="-1"/>
+    <control controlID="205" controlTypeID="com.balsamiq.mockups::Label" x="98" y="1879" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Message%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="207" controlTypeID="com.balsamiq.mockups::TextArea" x="98" y="1900" w="700" h="75" measuredW="200" measuredH="140" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="208" controlTypeID="com.balsamiq.mockups::Button" x="98" y="1990" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Send</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

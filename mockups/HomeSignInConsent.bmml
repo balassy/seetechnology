@@ -1,0 +1,104 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1264" measuredH="1020" mockupW="1204" mockupH="1000">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1000" measuredW="1024" measuredH="1000" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Join%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Join</text>
+        </override>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="98" y="888" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::Title" x="98" y="200" w="-1" h="-1" measuredW="359" measuredH="35" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Welcome%20James%20Plaster%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::Label" x="98" y="250" w="-1" h="-1" measuredW="436" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Thank%20you%20for%20using%20your%20LinkedIn%20account%20to%20sign%20in%20to%20SEETechnology.</text>
+      </controlProperties>
+    </control>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::Label" x="98" y="279" w="-1" h="-1" measuredW="609" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>We%20downloaded%20the%20following%20information%20from%20your%20LinkedIn%20profile%20and%20will%20display%20them%20in%20this%20website%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="com.balsamiq.mockups::Label" x="213" y="322" w="-1" h="-1" measuredW="159" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>James%20Plaster</text>
+      </controlProperties>
+    </control>
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::Label" x="213" y="357" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Web%20developer</text>
+      </controlProperties>
+    </control>
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::Label" x="213" y="382" w="-1" h="-1" measuredW="113" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Budapest%2C%20Hungary</text>
+      </controlProperties>
+    </control>
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::Webcam" x="98" y="326" w="100" h="100" measuredW="177" measuredH="146" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="181" controlTypeID="com.balsamiq.mockups::Label" x="213" y="406" w="-1" h="-1" measuredW="241" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5Bhttp%3A//www.linkedin.com/in/JamesPlaster%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="182" controlTypeID="com.balsamiq.mockups::Label" x="98" y="453" w="-1" h="-1" measuredW="286" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>By%20clicking%20*Join*%20you%20agree%20to%20the%20SEETechnology</text>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::Link" x="387" y="456" w="-1" h="-1" measuredW="208" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>User%20Agreement%20and%20Privacy%20Policy</text>
+      </controlProperties>
+    </control>
+    <control controlID="184" controlTypeID="com.balsamiq.mockups::Button" x="98" y="498" w="84" h="39" measuredW="55" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>HomeSignedIn%26bm%3BHomeSignedIn.bmml%26bm%3BHomeSignedIn.bmml%26bm%3BHomeSignedIn.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2238%2C478%2C122%2C517%22%20href%3D%22HomeSignedIn.bmml%22%20alt%3D%22HomeSignedIn%22%20id%3D%22184%22/%3E</map>
+        <size>18</size>
+        <state>selected</state>
+        <text>Join</text>
+      </controlProperties>
+    </control>
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::Link" x="224" y="511" w="-1" h="-1" measuredW="40" measuredH="19" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Home%26bm%3BHome.bmml%26bm%3BHome.bmml%26bm%3BHome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22164%2C491%2C204%2C510%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%22185%22/%3E</map>
+        <text>cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::Label" x="198" y="510" w="-1" h="-1" measuredW="13" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>or</text>
+      </controlProperties>
+    </control>
+    <control controlID="187" controlTypeID="com.balsamiq.mockups::StickyNote" x="1100" y="349" w="157" h="135" measuredW="109" measuredH="123" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20page%20is%20displayed%20only%20when%20the%20user%20signs%20in%20to%20the%20site%20the%20first%20time.</text>
+      </controlProperties>
+    </control>
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::StickyNote" x="1092" y="20" w="172" h="280" measuredW="109" measuredH="123" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>*IMPORTANT*%3A%0A%20%0AAt%20this%20step%20the%20LinkedIn%20authentication%20is%20completed%2C%20and%20the%20LinkedIn%20JavaScript%20API%20will%20remove%20the%20*Sign%20in%20with%20LinkedIn*%20button.%20It%20must%20be%20ensured%2C%20that%20the%20user%27s%20name%20and%20profile%20picture%20is%20not%20clickable%20in%20the%20upper%20right%20corner%20before%20she%20decides%20to%20Join%20the%20site%21</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

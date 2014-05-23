@@ -1,0 +1,143 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="1146" mockupW="1024" mockupH="1126">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1126" measuredW="1024" measuredH="1126" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="1126">
+          <text>Find%20a%20partner%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Find</text>
+        </override>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="98" y="1003" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::Title" x="98" y="198" w="-1" h="-1" measuredW="207" measuredH="35" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Find%20a%20partner</text>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::Image" x="98" y="310" w="937" h="511" measuredW="851" measuredH="464" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Partners%2520map.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::Label" x="98" y="248" w="-1" h="-1" measuredW="484" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20any%20keyword%2C%20name%2C%20location%2C%20skill%20or%20expertise%20to%20filter%20the%20items%20on%20the%20map%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::TextInput" x="98" y="269" w="879" h="-1" measuredW="102" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>biotechnology_</text>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Button" x="983" y="269" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>FindWithFilterProgress%26bm%3BFindWithFilterProgress.bmml%26bm%3BFindWithFilterProgress.bmml%26bm%3BFindWithFilterProgress.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22923%2C249%2C975%2C276%22%20href%3D%22FindWithFilterProgress.bmml%22%20alt%3D%22FindWithFilterProgress%22%20id%3D%22176%22/%3E</map>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::Canvas" x="98" y="836" w="937" h="127" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::Label" x="313" y="886" w="-1" h="-1" measuredW="518" measuredH="26" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>18</size>
+        <text>Click%20a%20pin%20on%20the%20map%20to%20read%20more%20about%20the%20organization%20here</text>
+      </controlProperties>
+    </control>
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::Image" x="683" y="420" w="45" h="45" measuredW="64" measuredH="64" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520green.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="193" controlTypeID="com.balsamiq.mockups::Image" x="597" y="640" w="45" h="45" measuredW="64" measuredH="64" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520white.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="194" controlTypeID="com.balsamiq.mockups::Image" x="736" y="515" w="45" h="45" measuredW="64" measuredH="64" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520yellow.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="195" controlTypeID="com.balsamiq.mockups::Image" x="360" y="435" w="45" h="45" measuredW="64" measuredH="64" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520green.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="196" controlTypeID="com.balsamiq.mockups::Image" x="525" y="595" w="45" h="45" measuredW="64" measuredH="64" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520yellow.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="197" controlTypeID="com.balsamiq.mockups::Image" x="570" y="375" w="45" h="45" measuredW="64" measuredH="64" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520white.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="198" controlTypeID="com.balsamiq.mockups::Image" x="305" y="521" w="45" h="45" measuredW="64" measuredH="64" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520white.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="199" controlTypeID="com.balsamiq.mockups::Image" x="657" y="655" w="45" h="45" measuredW="64" measuredH="64" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520green.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="200" controlTypeID="com.balsamiq.mockups::Image" x="570" y="521" w="45" h="45" measuredW="64" measuredH="64" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520yellow.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="201" controlTypeID="com.balsamiq.mockups::Image" x="642" y="521" w="45" h="45" measuredW="64" measuredH="64" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520white.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="202" controlTypeID="com.balsamiq.mockups::Image" x="350" y="480" w="45" h="45" measuredW="64" measuredH="64" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520white.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="203" controlTypeID="com.balsamiq.mockups::Image" x="277" y="461" w="45" h="45" measuredW="64" measuredH="64" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520yellow.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="204" controlTypeID="com.balsamiq.mockups::Image" x="232" y="589" w="45" h="45" measuredW="64" measuredH="64" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520yellow.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="205" controlTypeID="com.balsamiq.mockups::Image" x="683" y="566" w="45" h="45" measuredW="64" measuredH="64" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520yellow.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="206" controlTypeID="com.balsamiq.mockups::Image" x="799" y="536" w="45" h="45" measuredW="64" measuredH="64" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520white.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="207" controlTypeID="com.balsamiq.mockups::Image" x="502" y="491" w="45" h="45" measuredW="64" measuredH="64" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pushpin%2520green.png</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

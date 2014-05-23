@@ -1,0 +1,708 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="3178" mockupW="1024" mockupH="3158">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="3158" measuredW="1024" measuredH="3158" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="3158">
+          <text>Manage%20BME%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Manage/BME</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="100" y="3028" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="247" controlTypeID="com.balsamiq.mockups::Title" x="98" y="198" w="-1" h="-1" measuredW="194" measuredH="35" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Manage%20*BME*</text>
+      </controlProperties>
+    </control>
+    <control controlID="248" controlTypeID="com.balsamiq.mockups::Link" x="888" y="206" w="-1" h="-1" measuredW="162" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>MyOrganizations%26bm%3BMyOrganizations.bmml%26bm%3BMyOrganizations.bmml%26bm%3BMyOrganizations.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22828%2C186%2C990%2C205%22%20href%3D%22MyOrganizations.bmml%22%20alt%3D%22MyOrganizations%22%20id%3D%22248%22/%3E</map>
+        <text>Return%20to%20My%20Organizations</text>
+      </controlProperties>
+    </control>
+    <control controlID="249" controlTypeID="com.balsamiq.mockups::SubTitle" x="213" y="256" w="-1" h="-1" measuredW="621" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Budapest%20University%20of%20Technology%20and%20Economics%20%28BME%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="250" controlTypeID="com.balsamiq.mockups::Label" x="213" y="290" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Member%20of</text>
+      </controlProperties>
+    </control>
+    <control controlID="252" controlTypeID="com.balsamiq.mockups::Label" x="283" y="290" w="-1" h="-1" measuredW="133" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BHungarian%20Universities%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="253" controlTypeID="com.balsamiq.mockups::Image" x="98" y="250" w="100" h="100" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="254" controlTypeID="com.balsamiq.mockups::Label" x="134" y="319" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="255" controlTypeID="com.balsamiq.mockups::Link" x="990" y="260" w="-1" h="-1" measuredW="60" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit%20name</text>
+      </controlProperties>
+    </control>
+    <control controlID="256" controlTypeID="com.balsamiq.mockups::Link" x="976" y="291" w="-1" h="-1" measuredW="74" measuredH="19" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Change%20logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="258" controlTypeID="com.balsamiq.mockups::Paragraph" x="213" y="340" w="250" h="110" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>M%u0171egyetem%20rkp.%203.%0ABudapest%2C%20Hungary%0A1111%0A%20%0AP%3A%20+36%201%20463-1111%0AF%3A%20+36%201%20463-1110%0AE%3A%20%5Binfo@bme.hu%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="259" controlTypeID="com.balsamiq.mockups::Link" x="977" y="340" w="-1" h="-1" measuredW="73" measuredH="19" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit%20contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="262" controlTypeID="com.balsamiq.mockups::Webcam" x="134" y="851" w="50" h="50" measuredW="177" measuredH="146" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="263" controlTypeID="com.balsamiq.mockups::Label" x="190" y="851" w="-1" h="-1" measuredW="95" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BG%E1bor%20P%E9celi%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="264" controlTypeID="com.balsamiq.mockups::Label" x="190" y="875" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rector</text>
+      </controlProperties>
+    </control>
+    <control controlID="265" controlTypeID="com.balsamiq.mockups::Webcam" x="134" y="975" w="50" h="50" measuredW="177" measuredH="146" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="266" controlTypeID="com.balsamiq.mockups::Label" x="190" y="975" w="-1" h="-1" measuredW="69" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BJane%20Doe%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="267" controlTypeID="com.balsamiq.mockups::Label" x="190" y="999" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PR%20Manager</text>
+      </controlProperties>
+    </control>
+    <control controlID="268" controlTypeID="com.balsamiq.mockups::Webcam" x="134" y="1040" w="50" h="50" measuredW="177" measuredH="146" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="269" controlTypeID="com.balsamiq.mockups::Label" x="190" y="1040" w="-1" h="-1" measuredW="69" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BJane%20Doe%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="270" controlTypeID="com.balsamiq.mockups::Label" x="190" y="1064" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PR%20Manager</text>
+      </controlProperties>
+    </control>
+    <control controlID="271" controlTypeID="com.balsamiq.mockups::Link" x="971" y="825" w="-1" h="-1" measuredW="79" measuredH="19" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Change%20head</text>
+      </controlProperties>
+    </control>
+    <control controlID="272" controlTypeID="com.balsamiq.mockups::Link" x="946" y="949" w="-1" h="-1" measuredW="104" measuredH="19" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20administrator</text>
+      </controlProperties>
+    </control>
+    <control controlID="273" controlTypeID="com.balsamiq.mockups::Link" x="1002" y="978" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="274" controlTypeID="com.balsamiq.mockups::Link" x="1002" y="1043" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="277" controlTypeID="com.balsamiq.mockups::IconLabel" x="213" y="465" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>LinkGlobeIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%5Bhttp%3A//www.bme.hu%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="278" controlTypeID="com.balsamiq.mockups::IconLabel" x="213" y="486" w="-1" h="-1" measuredW="169" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FacebookIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%5Bhttp%3A//facebook.com/BME%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="279" controlTypeID="com.balsamiq.mockups::IconLabel" x="213" y="507" w="-1" h="-1" measuredW="152" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TwitterIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%5Bhttp%3A//twitter.com/BME%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="280" controlTypeID="com.balsamiq.mockups::IconLabel" x="213" y="528" w="-1" h="-1" measuredW="205" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>LinkedInIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%5Bhttp%3A//www.linkedin.com/in/BME%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="281" controlTypeID="com.balsamiq.mockups::IconLabel" x="213" y="549" w="-1" h="-1" measuredW="152" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RSSIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%5Bhttp%3A//www.bme.hu/rss%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="282" controlTypeID="com.balsamiq.mockups::Link" x="990" y="466" w="-1" h="-1" measuredW="60" measuredH="19" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit%20URLs</text>
+      </controlProperties>
+    </control>
+    <control controlID="283" controlTypeID="com.balsamiq.mockups::IconLabel" x="83" y="818" w="-1" h="-1" measuredW="77" measuredH="32" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>24</size>
+        <text>Head</text>
+      </controlProperties>
+    </control>
+    <control controlID="284" controlTypeID="com.balsamiq.mockups::IconLabel" x="83" y="942" w="-1" h="-1" measuredW="214" measuredH="32" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>24</size>
+        <text>Administrators%20%282%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="285" controlTypeID="com.balsamiq.mockups::StickyNote" x="1098" y="596" w="157" h="244" measuredW="109" measuredH="123" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20sections%20can%20be%20opened%20and%20closed%20by%20clicking%20on%20the%20section%20headers.%0A%20%0AAll%20sections%20are%20closed%20when%20the%20page%20is%20first%20loaded.</text>
+      </controlProperties>
+    </control>
+    <control controlID="286" controlTypeID="com.balsamiq.mockups::IconLabel" x="83" y="596" w="-1" h="-1" measuredW="143" measuredH="32" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>24</size>
+        <text>Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="287" controlTypeID="com.balsamiq.mockups::Paragraph" x="100" y="643" w="820" h="151" measuredW="200" measuredH="80" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.%0A%20%0Alorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+      </controlProperties>
+    </control>
+    <control controlID="288" controlTypeID="com.balsamiq.mockups::Link" x="957" y="603" w="-1" h="-1" measuredW="93" measuredH="19" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit%20description</text>
+      </controlProperties>
+    </control>
+    <control controlID="289" controlTypeID="com.balsamiq.mockups::IconLabel" x="83" y="1131" w="-1" h="-1" measuredW="272" measuredH="32" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>24</size>
+        <text>Skills%20and%20expertise%20%285%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="291" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1174" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>engineering</text>
+      </controlProperties>
+    </control>
+    <control controlID="293" controlTypeID="com.balsamiq.mockups::Link" x="996" y="1138" w="-1" h="-1" measuredW="49" measuredH="19" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20skill</text>
+      </controlProperties>
+    </control>
+    <control controlID="294" controlTypeID="com.balsamiq.mockups::Link" x="997" y="1174" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="295" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1204" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>electrical%20engineering</text>
+      </controlProperties>
+    </control>
+    <control controlID="296" controlTypeID="com.balsamiq.mockups::Link" x="997" y="1205" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="297" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1235" w="-1" h="-1" measuredW="97" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>civil%20engineering</text>
+      </controlProperties>
+    </control>
+    <control controlID="298" controlTypeID="com.balsamiq.mockups::Link" x="997" y="1235" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="299" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1265" w="-1" h="-1" measuredW="140" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>mechanical%20engineering</text>
+      </controlProperties>
+    </control>
+    <control controlID="300" controlTypeID="com.balsamiq.mockups::Link" x="997" y="1266" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="301" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1296" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>computer%20science</text>
+      </controlProperties>
+    </control>
+    <control controlID="302" controlTypeID="com.balsamiq.mockups::Link" x="997" y="1296" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="305" controlTypeID="com.balsamiq.mockups::StickyNote" x="1098" y="948" w="142" h="262" measuredW="109" measuredH="123" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20*Remove*%20link%20is%20hidden%20until%20the%20user%20hovers%20over%20an%20admin%2C%20skill%2C%20member%20or%20organization%2C%20and%20the%20full%20row%20is%20highlighted.</text>
+      </controlProperties>
+    </control>
+    <control controlID="310" controlTypeID="com.balsamiq.mockups::IconLabel" x="83" y="1354" w="-1" h="-1" measuredW="425" measuredH="32" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>24</size>
+        <text>Members%20%284%20+%202%20waiting%20for%20approval%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="311" controlTypeID="com.balsamiq.mockups::Link" x="969" y="1361" w="-1" h="-1" measuredW="75" measuredH="19" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20member</text>
+      </controlProperties>
+    </control>
+    <control controlID="312" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="1395" w="50" h="50" measuredW="177" measuredH="146" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="313" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1395" w="-1" h="-1" measuredW="79" measuredH="24" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BJulie%20White%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="314" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1419" w="-1" h="-1" measuredW="159" measuredH="21" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Principal%20Program%20Manager</text>
+      </controlProperties>
+    </control>
+    <control controlID="315" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="1457" w="50" h="50" measuredW="177" measuredH="146" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="316" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1457" w="-1" h="-1" measuredW="131" measuredH="24" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BTugberk%20Dymitruk%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="317" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1481" w="-1" h="-1" measuredW="228" measuredH="21" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Systems%20Architect%20and%20Technical%20Lead</text>
+      </controlProperties>
+    </control>
+    <control controlID="318" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="1519" w="50" h="50" measuredW="177" measuredH="146" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="319" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1519" w="-1" h="-1" measuredW="97" measuredH="24" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BDavid%20Bourne%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="320" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1543" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="62" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sr.%20Software%20Engineer</text>
+      </controlProperties>
+    </control>
+    <control controlID="321" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="1581" w="50" h="50" measuredW="177" measuredH="146" zOrder="63" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="322" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1581" w="-1" h="-1" measuredW="107" measuredH="24" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BRichard%20Turner%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="323" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1605" w="-1" h="-1" measuredW="265" measuredH="21" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Training%2C%20coaching%2C%20consulting%20%26%20development</text>
+      </controlProperties>
+    </control>
+    <control controlID="324" controlTypeID="com.balsamiq.mockups::Link" x="996" y="1398" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="325" controlTypeID="com.balsamiq.mockups::Link" x="996" y="1460" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="326" controlTypeID="com.balsamiq.mockups::Link" x="996" y="1522" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="68" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="327" controlTypeID="com.balsamiq.mockups::Link" x="996" y="1584" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="328" controlTypeID="com.balsamiq.mockups::SubTitle" x="100" y="1670" w="-1" h="-1" measuredW="506" measuredH="27" zOrder="70" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>These%20people%20want%20to%20join%20to%20your%20organization%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="329" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="1709" w="50" h="50" measuredW="177" measuredH="146" zOrder="71" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="330" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1709" w="-1" h="-1" measuredW="98" measuredH="24" zOrder="72" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BSamuel%20Black%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="331" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1733" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="73" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Office%20grunt</text>
+      </controlProperties>
+    </control>
+    <control controlID="332" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="1771" w="50" h="50" measuredW="177" measuredH="146" zOrder="74" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="333" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1771" w="-1" h="-1" measuredW="117" measuredH="24" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BFrederick%20Morse%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="334" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1795" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Web%20developer</text>
+      </controlProperties>
+    </control>
+    <control controlID="335" controlTypeID="com.balsamiq.mockups::Link" x="920" y="1712" w="-1" h="-1" measuredW="49" measuredH="19" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Approve</text>
+      </controlProperties>
+    </control>
+    <control controlID="336" controlTypeID="com.balsamiq.mockups::Link" x="1004" y="1712" w="-1" h="-1" measuredW="40" measuredH="19" zOrder="78" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reject</text>
+      </controlProperties>
+    </control>
+    <control controlID="337" controlTypeID="com.balsamiq.mockups::Link" x="920" y="1774" w="-1" h="-1" measuredW="49" measuredH="19" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Approve</text>
+      </controlProperties>
+    </control>
+    <control controlID="338" controlTypeID="com.balsamiq.mockups::Link" x="1004" y="1774" w="-1" h="-1" measuredW="40" measuredH="19" zOrder="80" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reject</text>
+      </controlProperties>
+    </control>
+    <control controlID="339" controlTypeID="com.balsamiq.mockups::IconLabel" x="83" y="1858" w="-1" h="-1" measuredW="446" measuredH="32" zOrder="81" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>24</size>
+        <text>Recommendations%20%281%20visible%20+%201%20hidden%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="340" controlTypeID="com.balsamiq.mockups::Paragraph" x="100" y="1957" w="700" h="80" measuredW="200" measuredH="80" zOrder="82" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.orem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+      </controlProperties>
+    </control>
+    <control controlID="341" controlTypeID="com.balsamiq.mockups::Webcam" x="100" y="1899" w="50" h="50" measuredW="177" measuredH="146" zOrder="83" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="342" controlTypeID="com.balsamiq.mockups::Link" x="159" y="1908" w="-1" h="-1" measuredW="80" measuredH="19" zOrder="84" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Peter%20Partner</text>
+      </controlProperties>
+    </control>
+    <control controlID="343" controlTypeID="com.balsamiq.mockups::Label" x="159" y="1927" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="85" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Technology%20Advisor</text>
+      </controlProperties>
+    </control>
+    <control controlID="344" controlTypeID="com.balsamiq.mockups::Paragraph" x="100" y="2113" w="700" h="80" measuredW="200" measuredH="80" zOrder="86" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%7ELipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.orem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.%7E</text>
+      </controlProperties>
+    </control>
+    <control controlID="345" controlTypeID="com.balsamiq.mockups::Webcam" x="100" y="2055" w="50" h="50" measuredW="177" measuredH="146" zOrder="87" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="346" controlTypeID="com.balsamiq.mockups::Link" x="159" y="2060" w="-1" h="-1" measuredW="55" measuredH="19" zOrder="88" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>John%20Doe</text>
+      </controlProperties>
+    </control>
+    <control controlID="347" controlTypeID="com.balsamiq.mockups::Label" x="159" y="2079" w="-1" h="-1" measuredW="28" measuredH="21" zOrder="89" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CEO</text>
+      </controlProperties>
+    </control>
+    <control controlID="348" controlTypeID="com.balsamiq.mockups::Link" x="1017" y="1908" w="-1" h="-1" measuredW="27" measuredH="19" zOrder="90" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hide</text>
+      </controlProperties>
+    </control>
+    <control controlID="349" controlTypeID="com.balsamiq.mockups::Link" x="1012" y="2060" w="-1" h="-1" measuredW="32" measuredH="19" zOrder="91" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show</text>
+      </controlProperties>
+    </control>
+    <control controlID="350" controlTypeID="com.balsamiq.mockups::IconLabel" x="83" y="2227" w="-1" h="-1" measuredW="468" measuredH="32" zOrder="92" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>24</size>
+        <text>Organizations%20%288%20+%201%20waiting%20for%20approval%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="351" controlTypeID="com.balsamiq.mockups::Label" x="100" y="2274" w="-1" h="-1" measuredW="162" measuredH="21" zOrder="93" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Civil%20Engineering%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="352" controlTypeID="com.balsamiq.mockups::Link" x="997" y="2274" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="353" controlTypeID="com.balsamiq.mockups::Label" x="100" y="2304" w="-1" h="-1" measuredW="203" measuredH="21" zOrder="95" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Mechanical%20Engineering%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="354" controlTypeID="com.balsamiq.mockups::Link" x="997" y="2305" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="96" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="355" controlTypeID="com.balsamiq.mockups::Label" x="100" y="2335" w="-1" h="-1" measuredW="209" measuredH="21" zOrder="97" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20or%20Architecture%20Engineering%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="356" controlTypeID="com.balsamiq.mockups::Link" x="997" y="2335" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="98" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="357" controlTypeID="com.balsamiq.mockups::Label" x="100" y="2365" w="-1" h="-1" measuredW="296" measuredH="21" zOrder="99" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Chemical%20Technology%20and%20Biotechnology%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="358" controlTypeID="com.balsamiq.mockups::Link" x="997" y="2366" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="100" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="359" controlTypeID="com.balsamiq.mockups::Label" x="100" y="2396" w="-1" h="-1" measuredW="367" measuredH="21" zOrder="101" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Transportation%20Engineering%20and%20Vehicle%20Engineering%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="360" controlTypeID="com.balsamiq.mockups::Link" x="997" y="2396" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="102" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="361" controlTypeID="com.balsamiq.mockups::Link" x="946" y="2234" w="-1" h="-1" measuredW="98" measuredH="19" zOrder="103" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20organization</text>
+      </controlProperties>
+    </control>
+    <control controlID="362" controlTypeID="com.balsamiq.mockups::StickyNote" x="1105" y="1911" w="165" h="168" measuredW="109" measuredH="123" zOrder="104" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20appropriate%20*Show*%20and%20*Hide*%20links%20are%20visible%20only%20when%20the%20user%20hovers%20over%20a%20recommendation%20and%20the%20full%20row%20is%20highlighted.</text>
+      </controlProperties>
+    </control>
+    <control controlID="363" controlTypeID="com.balsamiq.mockups::Label" x="100" y="2428" w="-1" h="-1" measuredW="163" measuredH="21" zOrder="105" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Natural%20Sciences%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="364" controlTypeID="com.balsamiq.mockups::Link" x="997" y="2428" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="106" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="365" controlTypeID="com.balsamiq.mockups::Label" x="100" y="2464" w="-1" h="-1" measuredW="244" measuredH="21" zOrder="107" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Economic%20and%20Social%20Sciences%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="366" controlTypeID="com.balsamiq.mockups::Link" x="997" y="2464" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="108" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="367" controlTypeID="com.balsamiq.mockups::Label" x="100" y="2496" w="-1" h="-1" measuredW="226" measuredH="21" zOrder="109" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BElectrical%20Engineering%20and%20Informatics%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="368" controlTypeID="com.balsamiq.mockups::Link" x="997" y="2496" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="110" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="369" controlTypeID="com.balsamiq.mockups::Link" x="921" y="2274" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="111" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="370" controlTypeID="com.balsamiq.mockups::Link" x="921" y="2305" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="112" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="371" controlTypeID="com.balsamiq.mockups::Link" x="921" y="2335" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="113" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="372" controlTypeID="com.balsamiq.mockups::Link" x="921" y="2366" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="114" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="373" controlTypeID="com.balsamiq.mockups::Link" x="921" y="2396" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="115" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="374" controlTypeID="com.balsamiq.mockups::Link" x="921" y="2428" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="116" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="375" controlTypeID="com.balsamiq.mockups::Link" x="921" y="2464" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="117" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="376" controlTypeID="com.balsamiq.mockups::Link" x="921" y="2496" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="118" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="377" controlTypeID="com.balsamiq.mockups::StickyNote" x="1105" y="2227" w="165" h="168" measuredW="109" measuredH="123" zOrder="119" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20*Manage*%20and%20*Remove*%20links%20are%20visible%20only%20when%20the%20user%20hovers%20over%20an%20organization%20and%20the%20full%20row%20is%20highlighted.</text>
+      </controlProperties>
+    </control>
+    <control controlID="378" controlTypeID="com.balsamiq.mockups::SubTitle" x="100" y="2556" w="-1" h="-1" measuredW="568" measuredH="27" zOrder="120" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>These%20people%20want%20to%20create%20new%20sub-organizations%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="379" controlTypeID="com.balsamiq.mockups::Webcam" x="152" y="2613" w="50" h="50" measuredW="177" measuredH="146" zOrder="121" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="380" controlTypeID="com.balsamiq.mockups::Label" x="208" y="2613" w="-1" h="-1" measuredW="97" measuredH="24" zOrder="122" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BDavid%20Bourne%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="381" controlTypeID="com.balsamiq.mockups::Label" x="208" y="2637" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="123" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sr.%20Software%20Engineer</text>
+      </controlProperties>
+    </control>
+    <control controlID="382" controlTypeID="com.balsamiq.mockups::Label" x="100" y="2590" w="-1" h="-1" measuredW="245" measuredH="21" zOrder="124" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Applied%20Mobile%20Research%20Group%20%28AMORG%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="383" controlTypeID="com.balsamiq.mockups::Link" x="920" y="2598" w="-1" h="-1" measuredW="49" measuredH="19" zOrder="125" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Approve</text>
+      </controlProperties>
+    </control>
+    <control controlID="384" controlTypeID="com.balsamiq.mockups::Link" x="1004" y="2598" w="-1" h="-1" measuredW="40" measuredH="19" zOrder="126" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reject</text>
+      </controlProperties>
+    </control>
+    <control controlID="385" controlTypeID="com.balsamiq.mockups::IconLabel" x="83" y="2736" w="-1" h="-1" measuredW="225" measuredH="32" zOrder="127" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>24</size>
+        <text>Reports%20%281%20waiting%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="386" controlTypeID="com.balsamiq.mockups::Paragraph" x="100" y="2776" w="700" h="80" measuredW="200" measuredH="80" zOrder="128" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.orem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+      </controlProperties>
+    </control>
+    <control controlID="387" controlTypeID="com.balsamiq.mockups::Webcam" x="152" y="2859" w="50" h="50" measuredW="177" measuredH="146" zOrder="129" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="388" controlTypeID="com.balsamiq.mockups::Link" x="211" y="2868" w="-1" h="-1" measuredW="80" measuredH="19" zOrder="130" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Peter%20Partner</text>
+      </controlProperties>
+    </control>
+    <control controlID="389" controlTypeID="com.balsamiq.mockups::Label" x="211" y="2887" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="131" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Technology%20Advisor</text>
+      </controlProperties>
+    </control>
+    <control controlID="390" controlTypeID="com.balsamiq.mockups::Link" x="1005" y="2776" w="-1" h="-1" measuredW="31" measuredH="19" zOrder="132" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Done</text>
+      </controlProperties>
+    </control>
+    <control controlID="391" controlTypeID="com.balsamiq.mockups::CheckBox" x="834" y="976" w="-1" h="-1" measuredW="119" measuredH="22" zOrder="133" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20as%20contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="392" controlTypeID="com.balsamiq.mockups::CheckBox" x="834" y="1041" w="-1" h="-1" measuredW="119" measuredH="22" zOrder="134" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20as%20contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="393" controlTypeID="com.balsamiq.mockups::CheckBox" x="834" y="823" w="-1" h="-1" measuredW="119" measuredH="22" zOrder="135" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20as%20contact</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

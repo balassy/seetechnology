@@ -1,0 +1,130 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="1326" mockupW="1024" mockupH="1306">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1306" measuredW="1024" measuredH="1306" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="1306">
+          <text>Manage%20BME%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Manage/BME</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="100" y="1152" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="393" controlTypeID="com.balsamiq.mockups::Component" x="83" y="198" w="962" h="883" measuredW="962" measuredH="883" zOrder="3" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22822%2C186%2C984%2C205%22%20href%3D%22MyOrganizations.bmml%22%20alt%3D%22MyOrganizations%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22924%2C240%2C984%2C259%22%20href%3D%22ManageOrgWithEditNameDialog.bmml%22%20alt%3D%22ManageOrgWithEditNameDialog%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C300%2C985%2C319%22%20href%3D%22ManageOrgWithEditLogoDialog.bmml%22%20alt%3D%22ManageOrgWithEditLogoDialog%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C326%2C984%2C345%22%20href%3D%22ManageOrgWithEditContactDialog.bmml%22%20alt%3D%22ManageOrgWithEditContactDialog%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22895%2C271%2C984%2C290%22%20href%3D%22ManageOrgWithEditParentDialog.bmml%22%20alt%3D%22ManageOrgWithEditParentDialog%22%20id%3D%2231%22/%3E</map>
+        <src>./assets/symbols.bmml%23Manage%2520org</src>
+      </controlProperties>
+    </control>
+    <control controlID="394" controlTypeID="com.balsamiq.mockups::ModalScreen" x="60" y="80" w="1024" h="1219" measuredW="320" measuredH="240" zOrder="4" locked="true" isInGroup="-1"/>
+    <control controlID="395" controlTypeID="com.balsamiq.mockups::Component" x="256" y="266" w="600" h="586" measuredW="600" measuredH="586" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22703%2C790%2C783%2C817%22%20href%3D%22ManageOrg.bmml%22%20alt%3D%22ManageOrg%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22765%2C274%2C781%2C290%22%20href%3D%22ManageOrg.bmml%22%20alt%3D%22ManageOrg%22%20id%3D%225%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="600" h="586"/>
+        <override controlID="1" x="17" y="23" w="-1" h="-1">
+          <text>Edit%20contact</text>
+        </override>
+        <override controlID="2" x="15" y="57" w="570" h="-1"/>
+        <override controlID="3" x="17" y="523" w="570" h="-1"/>
+        <override controlID="4" x="507" y="544" w="-1" h="-1">
+          <href>ManageOrg%26bm%3BManageOrg.bmml%26bm%3BManageOrg.bmml%26bm%3BManageOrg.bmml</href>
+          <text>Cancel</text>
+        </override>
+        <override controlID="5" x="569" y="28" w="-1" h="-1">
+          <href>ManageOrg%26bm%3BManageOrg.bmml%26bm%3BManageOrg.bmml%26bm%3BManageOrg.bmml</href>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml%23Dialog</src>
+      </controlProperties>
+    </control>
+    <control controlID="396" controlTypeID="com.balsamiq.mockups::Button" x="687" y="810" w="63" h="27" measuredW="63" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManageOrgWithEditContactDialogProgress%26bm%3BManageOrgWithEditContactDialogProgress.bmml%26bm%3BManageOrgWithEditContactDialogProgress.bmml%26bm%3BManageOrgWithEditContactDialogProgress.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22627%2C790%2C690%2C817%22%20href%3D%22ManageOrgWithEditContactDialogProgress.bmml%22%20alt%3D%22ManageOrgWithEditContactDialogProgress%22%20id%3D%22396%22/%3E</map>
+        <size>18</size>
+        <state>selected</state>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="397" controlTypeID="com.balsamiq.mockups::Label" x="272" y="341" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Street%20address%3A%20%7Bcolor%3Ared%7D*%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="398" controlTypeID="com.balsamiq.mockups::TextInput" x="272" y="362" w="568" h="-1" measuredW="122" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>M%u0171egyetem%20rkp.%203.</text>
+      </controlProperties>
+    </control>
+    <control controlID="399" controlTypeID="com.balsamiq.mockups::Label" x="272" y="404" w="-1" h="-1" measuredW="37" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>City%3A%20%7Bcolor%3Ared%7D*%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="400" controlTypeID="com.balsamiq.mockups::TextInput" x="272" y="425" w="568" h="-1" measuredW="70" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Budapest</text>
+      </controlProperties>
+    </control>
+    <control controlID="401" controlTypeID="com.balsamiq.mockups::Label" x="272" y="463" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Zip%3A%20%7Bcolor%3Ared%7D*%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="402" controlTypeID="com.balsamiq.mockups::TextInput" x="272" y="484" w="568" h="-1" measuredW="35" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1111</text>
+      </controlProperties>
+    </control>
+    <control controlID="403" controlTypeID="com.balsamiq.mockups::Label" x="272" y="526" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Country%3A%20%7Bcolor%3Ared%7D*%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="404" controlTypeID="com.balsamiq.mockups::ComboBox" x="272" y="547" w="568" h="-1" measuredW="80" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hungary</text>
+      </controlProperties>
+    </control>
+    <control controlID="405" controlTypeID="com.balsamiq.mockups::Label" x="272" y="586" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Phone%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="406" controlTypeID="com.balsamiq.mockups::TextInput" x="272" y="607" w="568" h="-1" measuredW="102" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+36%201%20463-1111</text>
+      </controlProperties>
+    </control>
+    <control controlID="407" controlTypeID="com.balsamiq.mockups::Label" x="272" y="645" w="-1" h="-1" measuredW="24" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fax%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="408" controlTypeID="com.balsamiq.mockups::TextInput" x="272" y="666" w="568" h="-1" measuredW="104" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+36%201%20463-1110</text>
+      </controlProperties>
+    </control>
+    <control controlID="409" controlTypeID="com.balsamiq.mockups::Label" x="272" y="708" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E-mail%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="410" controlTypeID="com.balsamiq.mockups::ComboBox" x="272" y="729" w="568" h="-1" measuredW="104" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>info@bme.hu</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,112 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1267" measuredH="1849" mockupW="1193" mockupH="1829">
+  <controls>
+    <control controlID="163" controlTypeID="com.balsamiq.mockups::Component" x="74" y="20" w="1024" h="1829" measuredW="1024" measuredH="1829" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="1829"/>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::Component" x="74" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="165" controlTypeID="com.balsamiq.mockups::Component" x="112" y="1726" w="949" h="85" measuredW="949" measuredH="85" zOrder="3" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="101" y="216" w="970" h="1416" measuredW="970" measuredH="1416" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22695%2C632%2C711%2C648%22%20href%3D%22OrgProfileWithEndorsersDialog.bmml%22%20alt%3D%22OrgProfileWithEndorsersDialog%22%20id%3D%2245%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22695%2C666%2C711%2C682%22%20href%3D%22OrgProfileWithEndorsersDialog.bmml%22%20alt%3D%22OrgProfileWithEndorsersDialog%22%20id%3D%2258%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22695%2C702%2C711%2C718%22%20href%3D%22OrgProfileWithEndorsersDialog.bmml%22%20alt%3D%22OrgProfileWithEndorsersDialog%22%20id%3D%2270%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2283%2C737%2C223%2C756%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%2271%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22695%2C738%2C711%2C754%22%20href%3D%22OrgProfileWithEndorsersDialog.bmml%22%20alt%3D%22OrgProfileWithEndorsersDialog%22%20id%3D%2279%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22695%2C774%2C711%2C790%22%20href%3D%22OrgProfileWithEndorsersDialog.bmml%22%20alt%3D%22OrgProfileWithEndorsersDialog%22%20id%3D%2287%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22747%2C777%2C944%2C801%22%20href%3D%22OrgProfileWithReportDialog.bmml%22%20alt%3D%22OrgProfileWithReportDialog%22%20id%3D%2297%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C802%2C103%2C826%22%20href%3D%22OrgProfileWithEndorseDialog.bmml%22%20alt%3D%22OrgProfileWithEndorseDialog%22%20id%3D%2298%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22679%2C1321%2C695%2C1337%22%20href%3D%22OrgProfileWithMembersDialog.bmml%22%20alt%3D%22OrgProfileWithMembersDialog%22%20id%3D%2299%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C1197%2C128%2C1221%22%20href%3D%22OrgProfileWithRecommendDialog.bmml%22%20alt%3D%22OrgProfileWithRecommendDialog%22%20id%3D%22100%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C1362%2C78%2C1386%22%20href%3D%22OrgProfileWithJoinDialog.bmml%22%20alt%3D%22OrgProfileWithJoinDialog%22%20id%3D%22101%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22752%2C828%2C803%2C852%22%20href%3D%22ManageOrg.bmml%22%20alt%3D%22ManageOrg%22%20id%3D%22102%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C1588%2C235%2C1612%22%20href%3D%22OrgProfileWithNewSubOrgDialog.bmml%22%20alt%3D%22OrgProfileWithNewSubOrgDialog%22%20id%3D%22103%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22552%2C861%2C584%2C893%22%20href%3D%22OrgProfileWithLikeDialog.bmml%22%20alt%3D%22OrgProfileWithLikeDialog%22%20id%3D%22104%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22588%2C865%2C615%2C889%22%20href%3D%22OrgProfileWithLikeDialog.bmml%22%20alt%3D%22OrgProfileWithLikeDialog%22%20id%3D%22105%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22671%2C861%2C703%2C893%22%20href%3D%22OrgProfileWithLikeDialog.bmml%22%20alt%3D%22OrgProfileWithLikeDialog%22%20id%3D%22106%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22707%2C865%2C717%2C889%22%20href%3D%22OrgProfileWithLikeDialog.bmml%22%20alt%3D%22OrgProfileWithLikeDialog%22%20id%3D%22107%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22219%2C268%2C352%2C287%22%20href%3D%22OrgProfile.bmml%22%20alt%3D%22OrgProfile%22%20id%3D%22112%22/%3E</map>
+        <src>./assets/symbols.bmml%23Org%2520profile</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::ModalScreen" x="74" y="80" w="1024" h="1746" measuredW="320" measuredH="240" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Component" x="286" y="604" w="600" h="261" measuredW="600" measuredH="261" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22717%2C803%2C797%2C830%22%20href%3D%22OrgProfile.bmml%22%20alt%3D%22OrgProfile%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22781%2C612%2C797%2C628%22%20href%3D%22OrgProfile.bmml%22%20alt%3D%22OrgProfile%22%20id%3D%225%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="600" h="261"/>
+        <override controlID="1" x="17" y="23" w="-1" h="-1">
+          <text>Does%20BME%20have%20these%20skills%20or%20expertise%3F</text>
+        </override>
+        <override controlID="2" x="15" y="57" w="570" h="-1"/>
+        <override controlID="3" x="15" y="202" w="570" h="-1"/>
+        <override controlID="4" x="505" y="219" w="-1" h="-1">
+          <href>OrgProfile%26bm%3BOrgProfile.bmml%26bm%3BOrgProfile.bmml%26bm%3BOrgProfile.bmml</href>
+          <text>Cancel</text>
+        </override>
+        <override controlID="5" x="569" y="28" w="-1" h="-1">
+          <href>OrgProfile%26bm%3BOrgProfile.bmml%26bm%3BOrgProfile.bmml%26bm%3BOrgProfile.bmml</href>
+        </override>
+        <src>./assets/symbols.bmml%23Dialog</src>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::Button" x="695" y="823" w="-1" h="-1" measuredW="90" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>OrgProfileWithEndorseDialogProgress%26bm%3BOrgProfileWithEndorseDialogProgress.bmml%26bm%3BOrgProfileWithEndorseDialogProgress.bmml%26bm%3BOrgProfileWithEndorseDialogProgress.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22621%2C803%2C711%2C830%22%20href%3D%22OrgProfileWithEndorseDialogProgress.bmml%22%20alt%3D%22OrgProfileWithEndorseDialogProgress%22%20id%3D%22172%22/%3E</map>
+        <size>18</size>
+        <state>selected</state>
+        <text>Endorse</text>
+      </controlProperties>
+    </control>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::Button" x="302" y="677" w="114" h="27" measuredW="112" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>engineering%20%20%20X</text>
+      </controlProperties>
+    </control>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::Button" x="431" y="677" w="145" h="27" measuredW="139" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>civil%20engineering%20%20%20X</text>
+      </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="com.balsamiq.mockups::Button" x="591" y="677" w="154" h="27" measuredW="149" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>computer%20science%20%20%20X</text>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Button" x="760" y="677" w="100" h="27" measuredW="100" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>simulation%20%20%20X</text>
+      </controlProperties>
+    </control>
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::Button" x="302" y="713" w="114" h="27" measuredW="86" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>mentoring%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::TextInput" x="302" y="755" w="558" h="-1" measuredW="79" measuredH="26" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::Label" x="309" y="758" w="-1" h="-1" measuredW="192" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <href>OrgProfileWithEndorseDialogAdd%26bm%3BOrgProfileWithEndorseDialogAdd.bmml%26bm%3BOrgProfileWithEndorseDialogAdd.bmml%26bm%3BOrgProfileWithEndorseDialogAdd.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22235%2C738%2C427%2C759%22%20href%3D%22OrgProfileWithEndorseDialogAdd.bmml%22%20alt%3D%22OrgProfileWithEndorseDialogAdd%22%20id%3D%22179%22/%3E</map>
+        <text>Type%20another%20area%20of%20expertise...</text>
+      </controlProperties>
+    </control>
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::StickyNote" x="1119" y="569" w="148" h="331" measuredW="109" measuredH="123" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5%20randomly%20selected%20tags%20of%20the%20organization%20is%20displayed%20as%20tag%20buttons.%0A%20%0AThe%20user%20may%20remove%20any%20of%20the%20pre-selected%20tags%20by%20clicking%20on%20the%20*X*%20button%2C%20or%20add%20any%20other%20by%20typing%20its%20name%20into%20the%20%26*auto-complete*%26%20text%20input%20field.%20The%20text%20input%20has%20a%20%26*placeholder*%26%20text%20%28just%20like%20in%20LinkedIn%29.</text>
+      </controlProperties>
+    </control>
+    <control controlID="181" controlTypeID="com.balsamiq.mockups::Icon" x="390" y="718" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>OrgProfileWithEndorseDialogRemoved%26bm%3BOrgProfileWithEndorseDialogRemoved.bmml%26bm%3BOrgProfileWithEndorseDialogRemoved.bmml%26bm%3BOrgProfileWithEndorseDialogRemoved.bmml</href>
+        <icon>XIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22316%2C698%2C332%2C714%22%20href%3D%22OrgProfileWithEndorseDialogRemoved.bmml%22%20alt%3D%22OrgProfileWithEndorseDialogRemoved%22%20id%3D%22181%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="182" controlTypeID="com.balsamiq.mockups::StickyNote" x="1119" y="339" w="136" h="191" measuredW="109" measuredH="123" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20user%20CANNOT%20endorse%20the%20organization%20if%20he%20or%20she%20is%20a%20member%20of%20the%20org.%20In%20that%20case%20an%20error%20dialog%20is%20displayed.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

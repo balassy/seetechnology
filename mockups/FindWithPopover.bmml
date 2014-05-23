@@ -1,0 +1,103 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="1146" mockupW="1024" mockupH="1126">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1126" measuredW="1024" measuredH="1126" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="1126">
+          <text>Find%20a%20partner%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Find</text>
+        </override>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="98" y="1003" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::Title" x="98" y="198" w="-1" h="-1" measuredW="207" measuredH="35" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Find%20a%20partner</text>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::Image" x="98" y="310" w="937" h="511" measuredW="851" measuredH="464" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Partners%2520map.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::Label" x="98" y="248" w="-1" h="-1" measuredW="484" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20any%20keyword%2C%20name%2C%20location%2C%20skill%20or%20expertise%20to%20filter%20the%20items%20on%20the%20map%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::TextInput" x="98" y="269" w="879" h="-1" measuredW="94" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>biotechnology</text>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Button" x="983" y="269" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::Tooltip" x="569" y="400" w="334" h="74" measuredW="192" measuredH="0" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::Link" x="579" y="418" w="-1" h="-1" measuredW="311" measuredH="19" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>OrgProfile%26bm%3BOrgProfile.bmml%26bm%3BOrgProfile.bmml%26bm%3BOrgProfile.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22519%2C398%2C830%2C417%22%20href%3D%22OrgProfile.bmml%22%20alt%3D%22OrgProfile%22%20id%3D%22179%22/%3E</map>
+        <text>*Budapest%20University%20of%20Technology%20and%20Economics*</text>
+      </controlProperties>
+    </control>
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::Image" x="98" y="847" w="100" h="100" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="181" controlTypeID="com.balsamiq.mockups::Label" x="207" y="874" w="-1" h="-1" measuredW="118" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Budapest%2C%20Hungary</text>
+      </controlProperties>
+    </control>
+    <control controlID="182" controlTypeID="com.balsamiq.mockups::Label" x="207" y="896" w="-1" h="-1" measuredW="340" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>154%20members%2C%20170%20recommendations%2C%20187%20like%2C%2045%20don%27t%20like</text>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::Label" x="207" y="918" w="-1" h="-1" measuredW="563" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>engineering%2C%20electrical%20engineering%2C%20civil%20engineering%2C%20mechanical%20engineering%2C%20computer%20science</text>
+      </controlProperties>
+    </control>
+    <control controlID="184" controlTypeID="com.balsamiq.mockups::Link" x="207" y="847" w="-1" h="-1" measuredW="411" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>OrgProfile%26bm%3BOrgProfile.bmml%26bm%3BOrgProfile.bmml%26bm%3BOrgProfile.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22147%2C827%2C558%2C851%22%20href%3D%22OrgProfile.bmml%22%20alt%3D%22OrgProfile%22%20id%3D%22184%22/%3E</map>
+        <size>18</size>
+        <text>Budapest%20University%20of%20Technology%20and%20Economics</text>
+      </controlProperties>
+    </control>
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::StickyNote" x="1097" y="411" w="165" h="141" measuredW="109" measuredH="123" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>When%20the%20user%20clicks%20a%20pin%20on%20the%20map%2C%20the%20details%20of%20the%20selected%20organization%20is%20displayed%20below%20the%20map.</text>
+      </controlProperties>
+    </control>
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::Label" x="624" y="435" w="-1" h="-1" measuredW="229" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28learn%20more%20about%20BME%20below%20the%20map%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="187" controlTypeID="com.balsamiq.mockups::StickyNote" x="1097" y="703" w="162" h="285" measuredW="109" measuredH="123" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <text>*PERFORMANCE%20and%20UX%20NOTE%3A*%0A%20%0AThe%20details%20of%20the%20selected%20organization%20should%20be%20loaded%20asynchronously%2C%20but%20even%20this%20way%20it%20may%20take%20a%20while.%20To%20entertain%20the%20user%20while%20the%20details%20are%20downloaded%20from%20the%20server%2C%20a%20progress%20indicator%20should%20be%20displayed.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
