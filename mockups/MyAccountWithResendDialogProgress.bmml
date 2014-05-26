@@ -5,7 +5,6 @@
         <override controlID="0" x="0" y="0" w="1024" h="975">
           <text>My%20Account%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/MyAccount</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml%23Frame</src>
       </controlProperties>
     </control>
@@ -22,17 +21,17 @@
     </control>
     <control controlID="189" controlTypeID="com.balsamiq.mockups::Component" x="98" y="198" w="949" h="556" measuredW="949" measuredH="556" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2238%2C443%2C188%2C470%22%20href%3D%22MyAccountWithUpdateDialogProgress.bmml%22%20alt%3D%22MyAccountWithUpdateDialogProgress%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22854%2C443%2C987%2C470%22%20href%3D%22MyAccountWithDeleteDialog.bmml%22%20alt%3D%22MyAccountWithDeleteDialog%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C443%2C270%2C470%22%20href%3D%22MyAccountWithUpdateDialogProgress.bmml%22%20alt%3D%22MyAccountWithUpdateDialogProgress%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22936%2C443%2C1069%2C470%22%20href%3D%22MyAccountWithDeleteDialog.bmml%22%20alt%3D%22MyAccountWithDeleteDialog%22%20id%3D%229%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2238%2C443%2C188%2C470%22%20href%3D%22MyAccountWithUpdateDialogProgress.bmml%22%20alt%3D%22MyAccountWithUpdateDialogProgress%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22854%2C443%2C987%2C470%22%20href%3D%22MyAccountWithDeleteDialog.bmml%22%20alt%3D%22MyAccountWithDeleteDialog%22%20id%3D%229%22/%3E</map>
         <src>./assets/symbols.bmml%23My%2520account</src>
       </controlProperties>
     </control>
-    <control controlID="190" controlTypeID="com.balsamiq.mockups::ModalScreen" x="60" y="80" w="1024" h="890" measuredW="320" measuredH="240" zOrder="4" locked="true" isInGroup="-1"/>
-    <control controlID="191" controlTypeID="com.balsamiq.mockups::Component" x="256" y="198" w="600" h="270" measuredW="600" measuredH="270" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::ModalScreen" x="60" y="80" w="1024" h="889" measuredW="320" measuredH="240" zOrder="4" locked="true" isInGroup="-1"/>
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::Component" x="256" y="543" w="600" h="270" measuredW="600" measuredH="270" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22712%2C398%2C781%2C425%22%20href%3D%22MyAccount.bmml%22%20alt%3D%22MyAccount%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22765%2C206%2C781%2C222%22%20href%3D%22MyAccount.bmml%22%20alt%3D%22MyAccount%22%20id%3D%225%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22712%2C743%2C781%2C770%22%20href%3D%22MyAccount.bmml%22%20alt%3D%22MyAccount%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22765%2C551%2C781%2C567%22%20href%3D%22MyAccount.bmml%22%20alt%3D%22MyAccount%22%20id%3D%225%22/%3E</map>
         <override controlID="0" x="0" y="0" w="600" h="270"/>
         <override controlID="1" x="17" y="23" w="-1" h="-1">
-          <text>Updating%20your%20profile</text>
+          <text>Resending%20confirmation%20e-mail</text>
         </override>
         <override controlID="2" x="15" y="57" w="570" h="-1"/>
         <override controlID="3" x="15" y="195" w="570" h="-1"/>
@@ -43,15 +42,19 @@
         <override controlID="5" x="569" y="28" w="-1" h="-1">
           <href>MyAccount%26bm%3BMyAccount.bmml%26bm%3BMyAccount.bmml%26bm%3BMyAccount.bmml</href>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml%23Dialog</src>
       </controlProperties>
     </control>
-    <control controlID="194" controlTypeID="com.balsamiq.mockups::Component" x="385" y="303" w="342" h="48" measuredW="342" measuredH="48" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::Component" x="300" y="652" w="507" h="48" measuredW="507" measuredH="48" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <override controlID="0">
-          <text>Your%20profile%20is%20successfully%20updated</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22240%2C632%2C747%2C680%22%20href%3D%22MyAccountWithResendDialogCompleted.bmml%22%20alt%3D%22MyAccountWithResendDialogCompleted%22%20id%3D%220%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="-1" h="-1">
+          <href>MyAccountWithResendDialogCompleted%26bm%3BMyAccountWithResendDialogCompleted.bmml%26bm%3BMyAccountWithResendDialogCompleted.bmml%26bm%3BMyAccountWithResendDialogCompleted.bmml</href>
+          <text>Sending%20you%20the%20confirmation%20e-mail%20again%2C%20please%20wait...</text>
         </override>
-        <src>./assets/symbols.bmml%23Success</src>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml%23Progress%2520-%2520wait</src>
       </controlProperties>
     </control>
   </controls>

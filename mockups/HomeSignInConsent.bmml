@@ -58,33 +58,33 @@
         <text>%5Bhttp%3A//www.linkedin.com/in/JamesPlaster%5D</text>
       </controlProperties>
     </control>
-    <control controlID="182" controlTypeID="com.balsamiq.mockups::Label" x="98" y="453" w="-1" h="-1" measuredW="286" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="182" controlTypeID="com.balsamiq.mockups::Label" x="98" y="549" w="-1" h="-1" measuredW="286" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>By%20clicking%20*Join*%20you%20agree%20to%20the%20SEETechnology</text>
       </controlProperties>
     </control>
-    <control controlID="183" controlTypeID="com.balsamiq.mockups::Link" x="387" y="456" w="-1" h="-1" measuredW="208" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::Link" x="387" y="552" w="-1" h="-1" measuredW="208" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>User%20Agreement%20and%20Privacy%20Policy</text>
       </controlProperties>
     </control>
-    <control controlID="184" controlTypeID="com.balsamiq.mockups::Button" x="98" y="498" w="84" h="39" measuredW="55" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="184" controlTypeID="com.balsamiq.mockups::Button" x="98" y="594" w="84" h="39" measuredW="55" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <href>HomeSignedIn%26bm%3BHomeSignedIn.bmml%26bm%3BHomeSignedIn.bmml%26bm%3BHomeSignedIn.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2238%2C478%2C122%2C517%22%20href%3D%22HomeSignedIn.bmml%22%20alt%3D%22HomeSignedIn%22%20id%3D%22184%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2238%2C574%2C122%2C613%22%20href%3D%22HomeSignedIn.bmml%22%20alt%3D%22HomeSignedIn%22%20id%3D%22184%22/%3E</map>
         <size>18</size>
         <state>selected</state>
         <text>Join</text>
       </controlProperties>
     </control>
-    <control controlID="185" controlTypeID="com.balsamiq.mockups::Link" x="224" y="511" w="-1" h="-1" measuredW="40" measuredH="19" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::Link" x="224" y="607" w="-1" h="-1" measuredW="40" measuredH="19" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Home%26bm%3BHome.bmml%26bm%3BHome.bmml%26bm%3BHome.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22164%2C491%2C204%2C510%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%22185%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22164%2C587%2C204%2C606%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%22185%22/%3E</map>
         <text>cancel</text>
       </controlProperties>
     </control>
-    <control controlID="186" controlTypeID="com.balsamiq.mockups::Label" x="198" y="510" w="-1" h="-1" measuredW="13" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::Label" x="198" y="606" w="-1" h="-1" measuredW="13" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>or</text>
       </controlProperties>
@@ -98,6 +98,25 @@
       <controlProperties>
         <color>13576743</color>
         <text>*IMPORTANT*%3A%0A%20%0AAt%20this%20step%20the%20LinkedIn%20authentication%20is%20completed%2C%20and%20the%20LinkedIn%20JavaScript%20API%20will%20remove%20the%20*Sign%20in%20with%20LinkedIn*%20button.%20It%20must%20be%20ensured%2C%20that%20the%20user%27s%20name%20and%20profile%20picture%20is%20not%20clickable%20in%20the%20upper%20right%20corner%20before%20she%20decides%20to%20Join%20the%20site%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="189" controlTypeID="com.balsamiq.mockups::Label" x="98" y="463" w="-1" h="-1" measuredW="751" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>We%20could%20not%20retrieve%20your%20e-mail%20address%20from%20LinkedIn%2C%20but%20if%20you%20would%20like%20to%20receive%20e-mail%20notifications%2C%20please%20enter%20it%20now%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::TextInput" x="98" y="484" w="395" h="-1" measuredW="79" measuredH="26" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::Label" x="104" y="487" w="-1" h="-1" measuredW="197" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <italic>true</italic>
+        <text>Please%20enter%20your%20e-mail%20address</text>
+      </controlProperties>
+    </control>
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::Label" x="497" y="487" w="-1" h="-1" measuredW="357" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Please%20enter%20a%20valid%20e-mail%20address%20or%20leave%20this%20field%20empty%21</text>
       </controlProperties>
     </control>
   </controls>

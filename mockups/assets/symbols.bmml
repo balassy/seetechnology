@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="3212" measuredH="2341" mockupW="3152" mockupH="2297">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="3212" measuredH="2503" mockupW="3152" mockupH="2459">
   <controls>
     <control controlID="1" controlTypeID="__group__" x="98" y="1554" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -806,7 +806,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="11" controlTypeID="__group__" x="1133" y="44" w="949" h="292" measuredW="949" measuredH="292" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="__group__" x="2224" y="1947" w="949" h="556" measuredW="949" measuredH="556" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>My%20account</controlName>
       </controlProperties>
@@ -852,15 +852,73 @@
         <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="0" y="265" w="-1" h="-1" measuredW="150" measuredH="27" zOrder="8" locked="false" isInGroup="11">
           <controlProperties>
             <href>MyAccountWithUpdateDialogProgress%26bm%3BMyAccountWithUpdateDialogProgress.bmml%26bm%3BMyAccountWithUpdateDialogProgress.bmml%26bm%3BMyAccountWithUpdateDialogProgress.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221073%2C265%2C1223%2C292%22%20href%3D%22MyAccountWithUpdateDialogProgress.bmml%22%20alt%3D%22MyAccountWithUpdateDialogProgress%22%20id%3D%228%22/%3E</map>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222164%2C2168%2C2314%2C2195%22%20href%3D%22MyAccountWithUpdateDialogProgress.bmml%22%20alt%3D%22MyAccountWithUpdateDialogProgress%22%20id%3D%228%22/%3E</map>
             <text>Update%20from%20LinkedIn</text>
           </controlProperties>
         </control>
         <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="816" y="265" w="-1" h="-1" measuredW="133" measuredH="27" zOrder="9" locked="false" isInGroup="11">
           <controlProperties>
             <href>MyAccountWithDeleteDialog%26bm%3BMyAccountWithDeleteDialog.bmml%26bm%3BMyAccountWithDeleteDialog.bmml%26bm%3BMyAccountWithDeleteDialog.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221889%2C265%2C2022%2C292%22%20href%3D%22MyAccountWithDeleteDialog.bmml%22%20alt%3D%22MyAccountWithDeleteDialog%22%20id%3D%229%22/%3E</map>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222980%2C2168%2C3113%2C2195%22%20href%3D%22MyAccountWithDeleteDialog.bmml%22%20alt%3D%22MyAccountWithDeleteDialog%22%20id%3D%229%22/%3E</map>
             <text>Delete%20my%20account</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="336" w="-1" h="-1" measuredW="207" measuredH="27" zOrder="10" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>E-mail%20preferences</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="0" y="405" w="-1" h="-1" measuredW="91" measuredH="21" zOrder="11" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>E-mail%20address%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="426" w="386" h="-1" measuredW="79" measuredH="26" zOrder="12" locked="false" isInGroup="11"/>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="7" y="429" w="-1" h="-1" measuredW="125" measuredH="21" zOrder="13" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>0</color>
+            <italic>false</italic>
+            <text>james@example.com</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="400" y="429" w="-1" h="-1" measuredW="357" measuredH="21" zOrder="14" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>13369344</color>
+            <text>Please%20enter%20a%20valid%20e-mail%20address%20or%20leave%20this%20field%20empty%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="368" w="882" h="25" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="11">
+          <controlProperties>
+            <borderColor>13369344</borderColor>
+            <color>13369344</color>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="7" y="370" w="-1" h="-1" measuredW="633" measuredH="21" zOrder="16" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>16777215</color>
+            <text>Your%20e-mail%20address%20is%20not%20confirmed%20yet%21%20Please%20follow%20the%20instructions%20in%20the%20e-mail%20we%20sent%20to%20you%20or%20click%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="467" w="-1" h="-1" measuredW="222" measuredH="22" zOrder="17" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>Display%20my%20e-mail%20address%20publicly</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="495" w="-1" h="-1" measuredW="187" measuredH="22" zOrder="18" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>Send%20me%20e-mail%20notifications</text>
+          </controlProperties>
+        </control>
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="0" y="529" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="19" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>Save</text>
+          </controlProperties>
+        </control>
+        <control controlID="20" controlTypeID="com.balsamiq.mockups::Link" x="640" y="373" w="-1" h="-1" measuredW="41" measuredH="19" zOrder="20" locked="false" isInGroup="11">
+          <controlProperties>
+            <href>MyAccountWithResendDialogProgress%26bm%3BMyAccountWithResendDialogProgress.bmml%26bm%3BMyAccountWithResendDialogProgress.bmml%26bm%3BMyAccountWithResendDialogProgress.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222804%2C2276%2C2845%2C2295%22%20href%3D%22MyAccountWithResendDialogProgress.bmml%22%20alt%3D%22MyAccountWithResendDialogProgress%22%20id%3D%2220%22/%3E</map>
+            <text>resend</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
