@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="1300" mockupW="1024" mockupH="1280">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1254" measuredH="1300" mockupW="1194" mockupH="1280">
   <controls>
     <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1280" measuredW="1024" measuredH="1280" zOrder="0" locked="true" isInGroup="-1">
       <controlProperties>
@@ -16,7 +16,7 @@
     </control>
     <control controlID="174" controlTypeID="com.balsamiq.mockups::Component" x="60" y="150" w="1024" h="913" measuredW="1024" measuredH="913" zOrder="2" locked="true" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22682%2C726%2C993%2C745%22%20href%3D%22OrgProfile.bmml%22%20alt%3D%22OrgProfile%22%20id%3D%2215%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22682%2C726%2C993%2C745%22%20href%3D%22OrgProfile.bmml%22%20alt%3D%22OrgProfile%22%20id%3D%2215%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2258%2C391%2C349%2C415%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%2231%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2265%2C449%2C299%2C473%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%2233%22/%3E</map>
         <src>./assets/symbols.bmml%23Home%20content</src>
       </controlProperties>
     </control>
@@ -24,6 +24,11 @@
       <controlProperties>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22750%2C78%2C946%2C112%22%20href%3D%22HomeWithSignInDialog.bmml%22%20alt%3D%22HomeWithSignInDialog%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22759%2C87%2C775%2C103%22%20href%3D%22HomeWithSignInDialog.bmml%22%20alt%3D%22HomeWithSignInDialog%22%20id%3D%2211%22/%3E</map>
         <src>./assets/symbols.bmml%23Header%2520-%2520Anonymous</src>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::StickyNote" x="1099" y="226" w="155" h="135" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bootstrap%20landing%20pages%3A%0Ahttps%3A//wrapbootstrap.com/tag/landing-page</text>
       </controlProperties>
     </control>
   </controls>
