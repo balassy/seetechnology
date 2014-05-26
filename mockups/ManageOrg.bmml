@@ -20,34 +20,22 @@
         <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
       </controlProperties>
     </control>
-    <control controlID="285" controlTypeID="com.balsamiq.mockups::StickyNote" x="1097" y="529" w="157" h="259" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="393" controlTypeID="com.balsamiq.mockups::Component" x="83" y="198" w="962" h="883" measuredW="962" measuredH="883" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>The%20sections%20can%20be%20opened%20and%20closed%20by%20clicking%20on%20the%20section%20headers.%0A%20%0AAll%20sections%20are%20closed%20when%20the%20page%20is%20first%20loaded.%0A%20%0AYou%20can%20get%20a%20glimpse%20of%20the%20opened%20sections%20here%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="393" controlTypeID="com.balsamiq.mockups::Component" x="83" y="198" w="962" h="883" measuredW="962" measuredH="883" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22822%2C186%2C984%2C205%22%20href%3D%22MyOrganizations.bmml%22%20alt%3D%22MyOrganizations%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22924%2C240%2C984%2C259%22%20href%3D%22ManageOrgWithEditNameDialog.bmml%22%20alt%3D%22ManageOrgWithEditNameDialog%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C300%2C985%2C319%22%20href%3D%22ManageOrgWithEditLogoDialog.bmml%22%20alt%3D%22ManageOrgWithEditLogoDialog%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C326%2C984%2C345%22%20href%3D%22ManageOrgWithEditContactDialog.bmml%22%20alt%3D%22ManageOrgWithEditContactDialog%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22895%2C271%2C984%2C290%22%20href%3D%22ManageOrgWithEditParentDialog.bmml%22%20alt%3D%22ManageOrgWithEditParentDialog%22%20id%3D%2231%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22822%2C186%2C984%2C205%22%20href%3D%22MyOrganizations.bmml%22%20alt%3D%22MyOrganizations%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22924%2C240%2C984%2C259%22%20href%3D%22ManageOrgWithEditNameDialog.bmml%22%20alt%3D%22ManageOrgWithEditNameDialog%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C300%2C985%2C319%22%20href%3D%22ManageOrgWithEditLogoDialog.bmml%22%20alt%3D%22ManageOrgWithEditLogoDialog%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C326%2C984%2C345%22%20href%3D%22ManageOrgWithEditContactDialog.bmml%22%20alt%3D%22ManageOrgWithEditContactDialog%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22924%2C446%2C984%2C465%22%20href%3D%22ManageOrgWithEditUrlsDialog.bmml%22%20alt%3D%22ManageOrgWithEditUrlsDialog%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C604%2C166%2C636%22%20href%3D%22ManageOrgWithDescriptionOpened.bmml%22%20alt%3D%22ManageOrgWithDescriptionOpened%22%20id%3D%2219%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22895%2C271%2C984%2C290%22%20href%3D%22ManageOrgWithEditParentDialog.bmml%22%20alt%3D%22ManageOrgWithEditParentDialog%22%20id%3D%2231%22/%3E</map>
         <override controlID="31">
           <href>ManageOrgWithEditParentDialog%26bm%3BManageOrgWithEditParentDialog.bmml%26bm%3BManageOrgWithEditParentDialog.bmml%26bm%3BManageOrgWithEditParentDialog.bmml</href>
         </override>
         <src>./assets/symbols.bmml%23Manage%20org</src>
       </controlProperties>
     </control>
-    <control controlID="394" controlTypeID="com.balsamiq.mockups::StickyNote" x="1097" y="221" w="158" h="198" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="394" controlTypeID="com.balsamiq.mockups::StickyNote" x="1097" y="221" w="158" h="198" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13576743</color>
         <text>%26*SECURITY*%26%3A%0A%20%0AThe%20*Change%20parent*%20link%20is%20visible%20only%20if%20the%20current%20user%20has%20admin%20permissions%20for%20the%20parent%20organization%20%28too%29.</text>
       </controlProperties>
     </control>
-    <control controlID="395" controlTypeID="com.balsamiq.mockups::Link" x="1110" y="754" w="-1" h="-1" measuredW="122" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <href>ManageOrgFullOpened%26bm%3BManageOrgFullOpened.bmml%26bm%3BManageOrgFullOpened.bmml%26bm%3BManageOrgFullOpened.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221050%2C734%2C1172%2C753%22%20href%3D%22ManageOrgFullOpened.bmml%22%20alt%3D%22ManageOrgFullOpened%22%20id%3D%22395%22/%3E</map>
-        <text>View%20opened%20version</text>
-      </controlProperties>
-    </control>
-    <control controlID="396" controlTypeID="com.balsamiq.mockups::StickyNote" x="1102" y="43" w="153" h="155" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="396" controlTypeID="com.balsamiq.mockups::StickyNote" x="1102" y="43" w="153" h="155" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>The%20*Member%20of%20X*%20line%20is%20replaced%20by%20%22Top-level%20organization%22%20if%20the%20organization%20has%20no%20parent.</text>
       </controlProperties>

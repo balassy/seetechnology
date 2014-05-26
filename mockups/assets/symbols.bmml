@@ -1414,14 +1414,18 @@
         </control>
         <control controlID="19" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="426" w="-1" h="-1" measuredW="143" measuredH="32" zOrder="19" locked="false" isInGroup="13">
           <controlProperties>
+            <href>ManageOrgWithDescriptionOpened%26bm%3BManageOrgWithDescriptionOpened.bmml%26bm%3BManageOrgWithDescriptionOpened.bmml%26bm%3BManageOrgWithDescriptionOpened.bmml</href>
             <icon>RightFillTriangleIcon%7Cxsmall</icon>
             <labelPosition>right</labelPosition>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222164%2C1089%2C2307%2C1121%22%20href%3D%22ManageOrgWithDescriptionOpened.bmml%22%20alt%3D%22ManageOrgWithDescriptionOpened%22%20id%3D%2219%22/%3E</map>
             <size>24</size>
             <text>%5BDescription%5D</text>
           </controlProperties>
         </control>
         <control controlID="20" controlTypeID="com.balsamiq.mockups::Link" x="868" y="433" w="-1" h="-1" measuredW="93" measuredH="19" zOrder="20" locked="false" isInGroup="13">
           <controlProperties>
+            <href>ManageOrgWithDescriptionEditDialog%26bm%3BManageOrgWithDescriptionEditDialog.bmml%26bm%3BManageOrgWithDescriptionEditDialog.bmml%26bm%3BManageOrgWithDescriptionEditDialog.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%223032%2C1096%2C3125%2C1115%22%20href%3D%22ManageOrgWithDescriptionEditDialog.bmml%22%20alt%3D%22ManageOrgWithDescriptionEditDialog%22%20id%3D%2220%22/%3E</map>
             <text>Edit%20description</text>
           </controlProperties>
         </control>
