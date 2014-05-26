@@ -1,20 +1,22 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="1020" mockupW="1024" mockupH="1000">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="1300" mockupW="1024" mockupH="1280">
   <controls>
-    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1000" measuredW="1024" measuredH="1000" zOrder="0" locked="true" isInGroup="-1">
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1280" measuredW="1024" measuredH="1280" zOrder="0" locked="true" isInGroup="-1">
       <controlProperties>
-        <override controlID="0">
+        <override controlID="0" x="0" y="0" w="1024" h="1280">
           <text>Home%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml%23Frame</src>
       </controlProperties>
     </control>
-    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="98" y="888" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="98" y="1150" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml%23Footer</src>
       </controlProperties>
     </control>
-    <control controlID="174" controlTypeID="com.balsamiq.mockups::Component" x="98" y="198" w="132" h="35" measuredW="132" measuredH="35" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::Component" x="60" y="150" w="1024" h="913" measuredW="1024" measuredH="913" zOrder="2" locked="true" isInGroup="-1">
       <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22682%2C726%2C993%2C745%22%20href%3D%22OrgProfile.bmml%22%20alt%3D%22OrgProfile%22%20id%3D%2215%22/%3E</map>
         <src>./assets/symbols.bmml%23Home%2520content</src>
       </controlProperties>
     </control>
@@ -24,10 +26,10 @@
         <src>./assets/symbols.bmml%23Header%2520-%2520Anonymous</src>
       </controlProperties>
     </control>
-    <control controlID="177" controlTypeID="com.balsamiq.mockups::ModalScreen" x="60" y="80" w="1024" h="915" measuredW="320" measuredH="240" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::ModalScreen" x="60" y="80" w="1024" h="1192" measuredW="320" measuredH="240" zOrder="4" locked="true" isInGroup="-1"/>
     <control controlID="178" controlTypeID="com.balsamiq.mockups::Component" x="263" y="248" w="618" h="520" measuredW="618" measuredH="520" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22345%2C650%2C409%2C677%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22142%2C503%2C206%2C530%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%2223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22226%2C650%2C333%2C677%22%20href%3D%22HomeSignInConsent.bmml%22%20alt%3D%22HomeSignInConsent%22%20id%3D%2222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22345%2C650%2C409%2C677%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%2223%22/%3E</map>
         <src>./assets/symbols.bmml%23LinkedIn%2520Authorize</src>
       </controlProperties>
     </control>

@@ -1,15 +1,23 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1264" measuredH="1020" mockupW="1204" mockupH="1000">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1264" measuredH="1300" mockupW="1204" mockupH="1280">
   <controls>
-    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1000" measuredW="1024" measuredH="1000" zOrder="0" locked="true" isInGroup="-1">
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1280" measuredW="1024" measuredH="1280" zOrder="0" locked="true" isInGroup="-1">
       <controlProperties>
-        <override controlID="0">
+        <override controlID="0" x="0" y="0" w="1024" h="1280">
           <text>Join%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Join</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml%23Frame</src>
       </controlProperties>
     </control>
-    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="98" y="888" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="98" y="1150" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
       <controlProperties>
+        <override controlID="0" x="845" y="33" w="32" h="32"/>
+        <override controlID="1" x="899" y="33" w="32" h="32"/>
+        <override controlID="2" x="0" y="0" w="949" h="10"/>
+        <override controlID="3" x="0" y="17" w="157" h="65"/>
+        <override controlID="4" x="208" y="14" w="83" h="71"/>
+        <override controlID="5" x="525" y="39" w="147" h="21"/>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml%23Footer</src>
       </controlProperties>
     </control>
