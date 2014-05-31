@@ -1,0 +1,151 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="1419" mockupW="1024" mockupH="1399">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1399" measuredW="1024" measuredH="1399" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="1399">
+          <text>Manage%20BME%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Manage/BME</text>
+        </override>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="100" y="1276" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="393" controlTypeID="com.balsamiq.mockups::Component" x="83" y="198" w="962" h="1023" measuredW="962" measuredH="1023" zOrder="3" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22822%2C186%2C984%2C205%22%20href%3D%22MyOrganizations.bmml%22%20alt%3D%22MyOrganizations%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22924%2C240%2C984%2C259%22%20href%3D%22ManageOrgWithEditNameDialog.bmml%22%20alt%3D%22ManageOrgWithEditNameDialog%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C300%2C985%2C319%22%20href%3D%22ManageOrgWithEditLogoDialog.bmml%22%20alt%3D%22ManageOrgWithEditLogoDialog%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C326%2C984%2C345%22%20href%3D%22ManageOrgWithEditContactDialog.bmml%22%20alt%3D%22ManageOrgWithEditContactDialog%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22924%2C446%2C984%2C465%22%20href%3D%22ManageOrgWithEditUrlsDialog.bmml%22%20alt%3D%22ManageOrgWithEditUrlsDialog%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C665%2C100%2C697%22%20href%3D%22ManageOrgWithHeadOpened.bmml%22%20alt%3D%22ManageOrgWithHeadOpened%22%20id%3D%2217%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C725%2C237%2C757%22%20href%3D%22ManageOrg.bmml%22%20alt%3D%22ManageOrg%22%20id%3D%2218%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C604%2C166%2C636%22%20href%3D%22ManageOrgWithDescriptionOpened.bmml%22%20alt%3D%22ManageOrgWithDescriptionOpened%22%20id%3D%2219%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22891%2C611%2C984%2C630%22%20href%3D%22ManageOrgWithDescriptionEditDialog.bmml%22%20alt%3D%22ManageOrgWithDescriptionEditDialog%22%20id%3D%2220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22905%2C672%2C984%2C691%22%20href%3D%22ManageOrgWithHeadEditDialog.bmml%22%20alt%3D%22ManageOrgWithHeadEditDialog%22%20id%3D%2226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22880%2C732%2C984%2C751%22%20href%3D%22ManageOrgWithAdminsAddDialog.bmml%22%20alt%3D%22ManageOrgWithAdminsAddDialog%22%20id%3D%2227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22895%2C271%2C984%2C290%22%20href%3D%22ManageOrgWithEditParentDialog.bmml%22%20alt%3D%22ManageOrgWithEditParentDialog%22%20id%3D%2231%22/%3E</map>
+        <override controlID="0" x="15" y="0" w="-1" h="-1"/>
+        <override controlID="1" x="799" y="8" w="-1" h="-1"/>
+        <override controlID="2" x="130" y="58" w="-1" h="-1"/>
+        <override controlID="3" x="130" y="92" w="-1" h="-1"/>
+        <override controlID="4" x="200" y="92" w="-1" h="-1"/>
+        <override controlID="5" x="15" y="52" w="100" h="100"/>
+        <override controlID="6" x="51" y="121" w="-1" h="-1"/>
+        <override controlID="7" x="901" y="62" w="-1" h="-1"/>
+        <override controlID="8" x="888" y="122" w="-1" h="-1"/>
+        <override controlID="9" x="130" y="142" w="250" h="110"/>
+        <override controlID="10" x="888" y="148" w="-1" h="-1"/>
+        <override controlID="11" x="130" y="267" w="-1" h="-1"/>
+        <override controlID="12" x="130" y="288" w="-1" h="-1"/>
+        <override controlID="13" x="130" y="309" w="-1" h="-1"/>
+        <override controlID="14" x="130" y="330" w="-1" h="-1"/>
+        <override controlID="15" x="130" y="351" w="-1" h="-1"/>
+        <override controlID="16" x="901" y="268" w="-1" h="-1"/>
+        <override controlID="17" x="0" y="487" w="-1" h="-1"/>
+        <override controlID="18" x="0" y="547" w="-1" h="-1">
+          <href>ManageOrg%26bm%3BManageOrg.bmml%26bm%3BManageOrg.bmml%26bm%3BManageOrg.bmml</href>
+          <icon>DownFillTriangleIcon%7Cxsmall</icon>
+        </override>
+        <override controlID="19" x="0" y="426" w="-1" h="-1"/>
+        <override controlID="20" x="868" y="433" w="-1" h="-1"/>
+        <override controlID="21" x="0" y="748" w="-1" h="-1"/>
+        <override controlID="22" x="0" y="809" w="-1" h="-1"/>
+        <override controlID="23" x="0" y="870" w="-1" h="-1"/>
+        <override controlID="24" x="0" y="930" w="-1" h="-1"/>
+        <override controlID="25" x="0" y="991" w="-1" h="-1"/>
+        <override controlID="26" x="882" y="494" w="-1" h="-1"/>
+        <override controlID="27" x="857" y="554" w="-1" h="-1"/>
+        <override controlID="28" x="912" y="755" w="-1" h="-1"/>
+        <override controlID="29" x="886" y="816" w="-1" h="-1"/>
+        <override controlID="30" x="863" y="937" w="-1" h="-1"/>
+        <override controlID="31" x="872" y="93" w="-1" h="-1">
+          <href>ManageOrgWithEditParentDialog%26bm%3BManageOrgWithEditParentDialog.bmml%26bm%3BManageOrgWithEditParentDialog.bmml%26bm%3BManageOrgWithEditParentDialog.bmml</href>
+        </override>
+        <override controlID="32" x="693" y="493" w="-1" h="-1"/>
+        <src>./assets/symbols.bmml%23Manage%2520org</src>
+      </controlProperties>
+    </control>
+    <control controlID="394" controlTypeID="com.balsamiq.mockups::StickyNote" x="1097" y="221" w="158" h="198" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>%26*SECURITY*%26%3A%0A%20%0AThe%20*Change%20parent*%20link%20is%20visible%20only%20if%20the%20current%20user%20has%20admin%20permissions%20for%20the%20parent%20organization%20%28too%29.</text>
+      </controlProperties>
+    </control>
+    <control controlID="396" controlTypeID="com.balsamiq.mockups::StickyNote" x="1102" y="43" w="153" h="155" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20*Member%20of%20X*%20line%20is%20replaced%20by%20%22Top-level%20organization%22%20if%20the%20organization%20has%20no%20parent.</text>
+      </controlProperties>
+    </control>
+    <control controlID="397" controlTypeID="com.balsamiq.mockups::Webcam" x="100" y="785" w="50" h="50" measuredW="177" measuredH="146" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="398" controlTypeID="com.balsamiq.mockups::Label" x="156" y="785" w="-1" h="-1" measuredW="69" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BJane%20Doe%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="399" controlTypeID="com.balsamiq.mockups::Label" x="156" y="809" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PR%20Manager</text>
+      </controlProperties>
+    </control>
+    <control controlID="400" controlTypeID="com.balsamiq.mockups::Webcam" x="100" y="850" w="50" h="50" measuredW="177" measuredH="146" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="401" controlTypeID="com.balsamiq.mockups::Label" x="156" y="850" w="-1" h="-1" measuredW="68" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BJohn%20Doe%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="402" controlTypeID="com.balsamiq.mockups::Label" x="156" y="874" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Webmaster</text>
+      </controlProperties>
+    </control>
+    <control controlID="403" controlTypeID="com.balsamiq.mockups::Link" x="997" y="787" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="404" controlTypeID="com.balsamiq.mockups::Link" x="997" y="853" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="407" controlTypeID="com.balsamiq.mockups::IconLabel" x="776" y="786" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CheckMarkIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Display%20as%20contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="408" controlTypeID="com.balsamiq.mockups::ModalScreen" x="60" y="80" w="1024" h="1313" measuredW="320" measuredH="240" zOrder="15" locked="true" isInGroup="-1"/>
+    <control controlID="409" controlTypeID="com.balsamiq.mockups::Component" x="264" y="703" w="600" h="268" measuredW="600" measuredH="268" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22720%2C909%2C789%2C936%22%20href%3D%22ManageOrgWithAdminsOpened.bmml%22%20alt%3D%22ManageOrgWithAdminsOpened%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22773%2C711%2C789%2C727%22%20href%3D%22ManageOrgWithAdminsOpened.bmml%22%20alt%3D%22ManageOrgWithAdminsOpened%22%20id%3D%225%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="600" h="268"/>
+        <override controlID="1" x="17" y="23" w="-1" h="-1">
+          <text>Add%20new%20organization%20administrator</text>
+        </override>
+        <override controlID="2" x="15" y="57" w="570" h="-1"/>
+        <override controlID="3" x="15" y="206" w="570" h="-1"/>
+        <override controlID="4" x="516" y="226" w="-1" h="-1">
+          <href>ManageOrgWithAdminsOpened%26bm%3BManageOrgWithAdminsOpened.bmml%26bm%3BManageOrgWithAdminsOpened.bmml%26bm%3BManageOrgWithAdminsOpened.bmml</href>
+          <text>Close</text>
+        </override>
+        <override controlID="5" x="569" y="28" w="-1" h="-1">
+          <href>ManageOrgWithAdminsOpened%26bm%3BManageOrgWithAdminsOpened.bmml%26bm%3BManageOrgWithAdminsOpened.bmml%26bm%3BManageOrgWithAdminsOpened.bmml</href>
+        </override>
+        <src>./assets/symbols.bmml%23Dialog</src>
+      </controlProperties>
+    </control>
+    <control controlID="415" controlTypeID="com.balsamiq.mockups::Component" x="334" y="813" w="477" h="48" measuredW="477" measuredH="48" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>The%20new%20administrator%20has%20been%20added%20successfully</text>
+        </override>
+        <src>./assets/symbols.bmml%23Success</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

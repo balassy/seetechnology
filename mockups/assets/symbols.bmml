@@ -1408,8 +1408,10 @@
         </control>
         <control controlID="18" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="547" w="-1" h="-1" measuredW="214" measuredH="32" zOrder="18" locked="false" isInGroup="13">
           <controlProperties>
+            <href>ManageOrgWithAdminsOpened%26bm%3BManageOrgWithAdminsOpened.bmml%26bm%3BManageOrgWithAdminsOpened.bmml%26bm%3BManageOrgWithAdminsOpened.bmml</href>
             <icon>RightFillTriangleIcon%7Cxsmall</icon>
             <labelPosition>right</labelPosition>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222164%2C1210%2C2378%2C1242%22%20href%3D%22ManageOrgWithAdminsOpened.bmml%22%20alt%3D%22ManageOrgWithAdminsOpened%22%20id%3D%2218%22/%3E</map>
             <size>24</size>
             <text>%5BAdministrators%5D%20%282%29</text>
           </controlProperties>
@@ -1480,6 +1482,8 @@
         </control>
         <control controlID="27" controlTypeID="com.balsamiq.mockups::Link" x="857" y="554" w="-1" h="-1" measuredW="104" measuredH="19" zOrder="27" locked="false" isInGroup="13">
           <controlProperties>
+            <href>ManageOrgWithAdminsAddDialog%26bm%3BManageOrgWithAdminsAddDialog.bmml%26bm%3BManageOrgWithAdminsAddDialog.bmml%26bm%3BManageOrgWithAdminsAddDialog.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%223021%2C1217%2C3125%2C1236%22%20href%3D%22ManageOrgWithAdminsAddDialog.bmml%22%20alt%3D%22ManageOrgWithAdminsAddDialog%22%20id%3D%2227%22/%3E</map>
             <text>Add%20administrator</text>
           </controlProperties>
         </control>
