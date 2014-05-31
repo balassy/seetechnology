@@ -1,0 +1,219 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="1742" mockupW="1024" mockupH="1722">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1722" measuredW="1024" measuredH="1722" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="1722">
+          <text>Manage%20BME%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Manage/BME</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="100" y="1592" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="393" controlTypeID="com.balsamiq.mockups::Component" x="83" y="198" w="962" h="1335" measuredW="962" measuredH="1335" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22822%2C186%2C984%2C205%22%20href%3D%22MyOrganizations.bmml%22%20alt%3D%22MyOrganizations%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22924%2C240%2C984%2C259%22%20href%3D%22ManageOrgWithEditNameDialog.bmml%22%20alt%3D%22ManageOrgWithEditNameDialog%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C300%2C985%2C319%22%20href%3D%22ManageOrgWithEditLogoDialog.bmml%22%20alt%3D%22ManageOrgWithEditLogoDialog%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C326%2C984%2C345%22%20href%3D%22ManageOrgWithEditContactDialog.bmml%22%20alt%3D%22ManageOrgWithEditContactDialog%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22924%2C446%2C984%2C465%22%20href%3D%22ManageOrgWithEditUrlsDialog.bmml%22%20alt%3D%22ManageOrgWithEditUrlsDialog%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C665%2C100%2C697%22%20href%3D%22ManageOrgWithHeadOpened.bmml%22%20alt%3D%22ManageOrgWithHeadOpened%22%20id%3D%2217%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C725%2C237%2C757%22%20href%3D%22ManageOrgWithAdminsOpened.bmml%22%20alt%3D%22ManageOrgWithAdminsOpened%22%20id%3D%2218%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C604%2C166%2C636%22%20href%3D%22ManageOrgWithDescriptionOpened.bmml%22%20alt%3D%22ManageOrgWithDescriptionOpened%22%20id%3D%2219%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22891%2C611%2C984%2C630%22%20href%3D%22ManageOrgWithDescriptionEditDialog.bmml%22%20alt%3D%22ManageOrgWithDescriptionEditDialog%22%20id%3D%2220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C786%2C295%2C818%22%20href%3D%22ManageOrgWithSkillsOpened.bmml%22%20alt%3D%22ManageOrgWithSkillsOpened%22%20id%3D%2221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C847%2C448%2C879%22%20href%3D%22ManageOrg.bmml%22%20alt%3D%22ManageOrg%22%20id%3D%2222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22905%2C672%2C984%2C691%22%20href%3D%22ManageOrgWithHeadEditDialog.bmml%22%20alt%3D%22ManageOrgWithHeadEditDialog%22%20id%3D%2226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22880%2C732%2C984%2C751%22%20href%3D%22ManageOrgWithAdminsAddDialog.bmml%22%20alt%3D%22ManageOrgWithAdminsAddDialog%22%20id%3D%2227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22935%2C793%2C984%2C812%22%20href%3D%22ManageOrgWithSkillsAddDialog.bmml%22%20alt%3D%22ManageOrgWithSkillsAddDialog%22%20id%3D%2228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22909%2C854%2C984%2C873%22%20href%3D%22ManageOrgWithMembersAddDialog.bmml%22%20alt%3D%22ManageOrgWithMembersAddDialog%22%20id%3D%2229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22895%2C271%2C984%2C290%22%20href%3D%22ManageOrgWithEditParentDialog.bmml%22%20alt%3D%22ManageOrgWithEditParentDialog%22%20id%3D%2231%22/%3E</map>
+        <override controlID="0" x="15" y="0" w="-1" h="-1"/>
+        <override controlID="1" x="799" y="8" w="-1" h="-1"/>
+        <override controlID="2" x="130" y="58" w="-1" h="-1"/>
+        <override controlID="3" x="130" y="92" w="-1" h="-1"/>
+        <override controlID="4" x="200" y="92" w="-1" h="-1"/>
+        <override controlID="5" x="15" y="52" w="100" h="100"/>
+        <override controlID="6" x="51" y="121" w="-1" h="-1"/>
+        <override controlID="7" x="901" y="62" w="-1" h="-1"/>
+        <override controlID="8" x="888" y="122" w="-1" h="-1"/>
+        <override controlID="9" x="130" y="142" w="250" h="110"/>
+        <override controlID="10" x="888" y="148" w="-1" h="-1"/>
+        <override controlID="11" x="130" y="267" w="-1" h="-1"/>
+        <override controlID="12" x="130" y="288" w="-1" h="-1"/>
+        <override controlID="13" x="130" y="309" w="-1" h="-1"/>
+        <override controlID="14" x="130" y="330" w="-1" h="-1"/>
+        <override controlID="15" x="130" y="351" w="-1" h="-1"/>
+        <override controlID="16" x="901" y="268" w="-1" h="-1"/>
+        <override controlID="17" x="0" y="487" w="-1" h="-1"/>
+        <override controlID="18" x="0" y="547" w="-1" h="-1"/>
+        <override controlID="19" x="0" y="426" w="-1" h="-1"/>
+        <override controlID="20" x="868" y="433" w="-1" h="-1"/>
+        <override controlID="21" x="0" y="608" w="-1" h="-1"/>
+        <override controlID="22" x="0" y="669" w="-1" h="-1">
+          <href>ManageOrg%26bm%3BManageOrg.bmml%26bm%3BManageOrg.bmml%26bm%3BManageOrg.bmml</href>
+          <icon>DownFillTriangleIcon%7Cxsmall</icon>
+        </override>
+        <override controlID="23" x="0" y="1182" w="-1" h="-1"/>
+        <override controlID="24" x="0" y="1242" w="-1" h="-1"/>
+        <override controlID="25" x="0" y="1303" w="-1" h="-1"/>
+        <override controlID="26" x="882" y="494" w="-1" h="-1"/>
+        <override controlID="27" x="857" y="554" w="-1" h="-1"/>
+        <override controlID="28" x="912" y="615" w="-1" h="-1"/>
+        <override controlID="29" x="886" y="676" w="-1" h="-1"/>
+        <override controlID="30" x="863" y="1249" w="-1" h="-1"/>
+        <override controlID="31" x="872" y="93" w="-1" h="-1">
+          <href>ManageOrgWithEditParentDialog%26bm%3BManageOrgWithEditParentDialog.bmml%26bm%3BManageOrgWithEditParentDialog.bmml%26bm%3BManageOrgWithEditParentDialog.bmml</href>
+        </override>
+        <override controlID="32" x="693" y="493" w="-1" h="-1"/>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml%23Manage%2520org</src>
+      </controlProperties>
+    </control>
+    <control controlID="394" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="907" w="50" h="50" measuredW="177" measuredH="146" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="395" controlTypeID="com.balsamiq.mockups::Label" x="158" y="907" w="-1" h="-1" measuredW="79" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BJulie%20White%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="396" controlTypeID="com.balsamiq.mockups::Label" x="158" y="931" w="-1" h="-1" measuredW="159" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Principal%20Program%20Manager</text>
+      </controlProperties>
+    </control>
+    <control controlID="397" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="969" w="50" h="50" measuredW="177" measuredH="146" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="398" controlTypeID="com.balsamiq.mockups::Label" x="158" y="969" w="-1" h="-1" measuredW="131" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BTugberk%20Dymitruk%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="399" controlTypeID="com.balsamiq.mockups::Label" x="158" y="993" w="-1" h="-1" measuredW="228" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Systems%20Architect%20and%20Technical%20Lead</text>
+      </controlProperties>
+    </control>
+    <control controlID="400" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="1031" w="50" h="50" measuredW="177" measuredH="146" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="401" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1031" w="-1" h="-1" measuredW="97" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BDavid%20Bourne%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="402" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1055" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sr.%20Software%20Engineer</text>
+      </controlProperties>
+    </control>
+    <control controlID="403" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="1093" w="50" h="50" measuredW="177" measuredH="146" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="404" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1093" w="-1" h="-1" measuredW="107" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BRichard%20Turner%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="405" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1117" w="-1" h="-1" measuredW="265" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Training%2C%20coaching%2C%20consulting%20%26%20development</text>
+      </controlProperties>
+    </control>
+    <control controlID="406" controlTypeID="com.balsamiq.mockups::Link" x="996" y="910" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManageOrgWithMembersRemoveDialog%26bm%3BManageOrgWithMembersRemoveDialog.bmml%26bm%3BManageOrgWithMembersRemoveDialog.bmml%26bm%3BManageOrgWithMembersRemoveDialog.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22936%2C890%2C984%2C909%22%20href%3D%22ManageOrgWithMembersRemoveDialog.bmml%22%20alt%3D%22ManageOrgWithMembersRemoveDialog%22%20id%3D%22406%22/%3E</map>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="407" controlTypeID="com.balsamiq.mockups::Link" x="996" y="972" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManageOrgWithMembersRemoveDialog%26bm%3BManageOrgWithMembersRemoveDialog.bmml%26bm%3BManageOrgWithMembersRemoveDialog.bmml%26bm%3BManageOrgWithMembersRemoveDialog.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22936%2C952%2C984%2C971%22%20href%3D%22ManageOrgWithMembersRemoveDialog.bmml%22%20alt%3D%22ManageOrgWithMembersRemoveDialog%22%20id%3D%22407%22/%3E</map>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="408" controlTypeID="com.balsamiq.mockups::Link" x="996" y="1034" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManageOrgWithMembersRemoveDialog%26bm%3BManageOrgWithMembersRemoveDialog.bmml%26bm%3BManageOrgWithMembersRemoveDialog.bmml%26bm%3BManageOrgWithMembersRemoveDialog.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22936%2C1014%2C984%2C1033%22%20href%3D%22ManageOrgWithMembersRemoveDialog.bmml%22%20alt%3D%22ManageOrgWithMembersRemoveDialog%22%20id%3D%22408%22/%3E</map>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="409" controlTypeID="com.balsamiq.mockups::Link" x="996" y="1096" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManageOrgWithMembersRemoveDialog%26bm%3BManageOrgWithMembersRemoveDialog.bmml%26bm%3BManageOrgWithMembersRemoveDialog.bmml%26bm%3BManageOrgWithMembersRemoveDialog.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22936%2C1076%2C984%2C1095%22%20href%3D%22ManageOrgWithMembersRemoveDialog.bmml%22%20alt%3D%22ManageOrgWithMembersRemoveDialog%22%20id%3D%22409%22/%3E</map>
+        <text>Remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="410" controlTypeID="com.balsamiq.mockups::SubTitle" x="100" y="1182" w="-1" h="-1" measuredW="506" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>These%20people%20want%20to%20join%20to%20your%20organization%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="411" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="1221" w="50" h="50" measuredW="177" measuredH="146" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="412" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1221" w="-1" h="-1" measuredW="98" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BSamuel%20Black%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="413" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1245" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Office%20grunt</text>
+      </controlProperties>
+    </control>
+    <control controlID="414" controlTypeID="com.balsamiq.mockups::Webcam" x="102" y="1283" w="50" h="50" measuredW="177" measuredH="146" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="415" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1283" w="-1" h="-1" measuredW="117" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BFrederick%20Morse%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="416" controlTypeID="com.balsamiq.mockups::Label" x="158" y="1307" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Web%20developer</text>
+      </controlProperties>
+    </control>
+    <control controlID="417" controlTypeID="com.balsamiq.mockups::Link" x="920" y="1224" w="-1" h="-1" measuredW="49" measuredH="19" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManageOrgWithMembersRequestDialog%26bm%3BManageOrgWithMembersRequestDialog.bmml%26bm%3BManageOrgWithMembersRequestDialog.bmml%26bm%3BManageOrgWithMembersRequestDialog.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22860%2C1204%2C909%2C1223%22%20href%3D%22ManageOrgWithMembersRequestDialog.bmml%22%20alt%3D%22ManageOrgWithMembersRequestDialog%22%20id%3D%22417%22/%3E</map>
+        <text>Approve</text>
+      </controlProperties>
+    </control>
+    <control controlID="418" controlTypeID="com.balsamiq.mockups::Link" x="1004" y="1224" w="-1" h="-1" measuredW="40" measuredH="19" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManageOrgWithMembersRequestDialog%26bm%3BManageOrgWithMembersRequestDialog.bmml%26bm%3BManageOrgWithMembersRequestDialog.bmml%26bm%3BManageOrgWithMembersRequestDialog.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22944%2C1204%2C984%2C1223%22%20href%3D%22ManageOrgWithMembersRequestDialog.bmml%22%20alt%3D%22ManageOrgWithMembersRequestDialog%22%20id%3D%22418%22/%3E</map>
+        <text>Reject</text>
+      </controlProperties>
+    </control>
+    <control controlID="419" controlTypeID="com.balsamiq.mockups::Link" x="920" y="1286" w="-1" h="-1" measuredW="49" measuredH="19" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManageOrgWithMembersRequestDialog%26bm%3BManageOrgWithMembersRequestDialog.bmml%26bm%3BManageOrgWithMembersRequestDialog.bmml%26bm%3BManageOrgWithMembersRequestDialog.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22860%2C1266%2C909%2C1285%22%20href%3D%22ManageOrgWithMembersRequestDialog.bmml%22%20alt%3D%22ManageOrgWithMembersRequestDialog%22%20id%3D%22419%22/%3E</map>
+        <text>Approve</text>
+      </controlProperties>
+    </control>
+    <control controlID="420" controlTypeID="com.balsamiq.mockups::Link" x="1004" y="1286" w="-1" h="-1" measuredW="40" measuredH="19" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManageOrgWithMembersRequestDialog%26bm%3BManageOrgWithMembersRequestDialog.bmml%26bm%3BManageOrgWithMembersRequestDialog.bmml%26bm%3BManageOrgWithMembersRequestDialog.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22944%2C1266%2C984%2C1285%22%20href%3D%22ManageOrgWithMembersRequestDialog.bmml%22%20alt%3D%22ManageOrgWithMembersRequestDialog%22%20id%3D%22420%22/%3E</map>
+        <text>Reject</text>
+      </controlProperties>
+    </control>
+    <control controlID="421" controlTypeID="com.balsamiq.mockups::StickyNote" x="1111" y="938" w="142" h="172" measuredW="109" measuredH="123" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20*Remove*%2C%20*Approve*%20and%20*Rejects*%20links%20are%20hidden%20until%20the%20user%20hovers%20over%20a%20member%2C%20and%20the%20full%20row%20is%20highlighted.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
