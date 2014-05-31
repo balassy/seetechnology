@@ -1435,8 +1435,10 @@
         </control>
         <control controlID="21" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="608" w="-1" h="-1" measuredW="272" measuredH="32" zOrder="21" locked="false" isInGroup="13">
           <controlProperties>
+            <href>ManageOrgWithSkillsOpened%26bm%3BManageOrgWithSkillsOpened.bmml%26bm%3BManageOrgWithSkillsOpened.bmml%26bm%3BManageOrgWithSkillsOpened.bmml</href>
             <icon>RightFillTriangleIcon%7Cxsmall</icon>
             <labelPosition>right</labelPosition>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222164%2C1271%2C2436%2C1303%22%20href%3D%22ManageOrgWithSkillsOpened.bmml%22%20alt%3D%22ManageOrgWithSkillsOpened%22%20id%3D%2221%22/%3E</map>
             <size>24</size>
             <text>%5BSkills%20and%20expertise%5D%20%285%29</text>
           </controlProperties>
@@ -1489,6 +1491,8 @@
         </control>
         <control controlID="28" controlTypeID="com.balsamiq.mockups::Link" x="912" y="615" w="-1" h="-1" measuredW="49" measuredH="19" zOrder="28" locked="false" isInGroup="13">
           <controlProperties>
+            <href>ManageOrgWithSkillsAddDialog%26bm%3BManageOrgWithSkillsAddDialog.bmml%26bm%3BManageOrgWithSkillsAddDialog.bmml%26bm%3BManageOrgWithSkillsAddDialog.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%223076%2C1278%2C3125%2C1297%22%20href%3D%22ManageOrgWithSkillsAddDialog.bmml%22%20alt%3D%22ManageOrgWithSkillsAddDialog%22%20id%3D%2228%22/%3E</map>
             <text>Add%20skill</text>
           </controlProperties>
         </control>
