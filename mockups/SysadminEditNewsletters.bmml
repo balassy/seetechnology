@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1237" measuredH="990" mockupW="1177" mockupH="970">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="970" measuredW="1024" measuredH="970" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="970">
+          <text>Edit%20the%20Newsletters%20section%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Admin/EditNewsletters</text>
+        </override>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="100" y="841" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C70%2C232%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22260%2C83%2C325%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22371%2C83%2C475%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22542%2C81%2C662%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22821%2C83%2C946%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="415" controlTypeID="com.balsamiq.mockups::Title" x="98" y="198" w="-1" h="-1" measuredW="412" measuredH="35" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Edit%20the%20Newsletters%20section</text>
+      </controlProperties>
+    </control>
+    <control controlID="416" controlTypeID="com.balsamiq.mockups::Link" x="858" y="206" w="-1" h="-1" measuredW="191" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Sysadmin%26bm%3BSysadmin.bmml%26bm%3BSysadmin.bmml%26bm%3BSysadmin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22798%2C186%2C989%2C205%22%20href%3D%22Sysadmin.bmml%22%20alt%3D%22Sysadmin%22%20id%3D%22416%22/%3E</map>
+        <text>Return%20to%20System%20administration</text>
+      </controlProperties>
+    </control>
+    <control controlID="419" controlTypeID="com.balsamiq.mockups::FormattingToolbar" x="98" y="259" w="256" h="-1" measuredW="270" measuredH="29" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="420" controlTypeID="com.balsamiq.mockups::TextArea" x="98" y="288" w="951" h="538" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="421" controlTypeID="com.balsamiq.mockups::Button" x="997" y="260" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Sysadmin%26bm%3BSysadmin.bmml%26bm%3BSysadmin.bmml%26bm%3BSysadmin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22937%2C240%2C989%2C267%22%20href%3D%22Sysadmin.bmml%22%20alt%3D%22Sysadmin%22%20id%3D%22421%22/%3E</map>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="434" controlTypeID="com.balsamiq.mockups::StickyNote" x="1099" y="394" w="138" h="222" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20web-based%20WYSIWYG%20rich-text%20editor%20%20%28e.g.%20TinyMCE%29%20is%20available%20to%20convenently%20edit%20the%20content%20of%20the%20Newsletters%20section%20on%20the%20home%20page.</text>
+      </controlProperties>
+    </control>
+    <control controlID="435" controlTypeID="com.balsamiq.mockups::Paragraph" x="114" y="303" w="127" h="129" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>false</bold>
+        <text>*No.%203%20%7C%20Apr%202014*%0A%5BEN%5D%2C%20%5BDE%5D%0A%20%0A*No.%202%20%7C%20Dec%202013*%0A%5BEN%5D%2C%20%5BDE%5D%2C%20%5BHU%5D%0A%20%0A*No.%201%20%7C%20Oct%202013*%0A%5BEN%5D%2C%20%5BDE%5D%2C%20%5BHU%5D%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

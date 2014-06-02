@@ -1534,7 +1534,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="14" controlTypeID="__group__" x="2248" y="3016" w="324" h="584" measuredW="324" measuredH="584" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="__group__" x="2248" y="3016" w="324" h="455" measuredW="324" measuredH="455" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>System%20administration</controlName>
       </controlProperties>
@@ -1569,51 +1569,40 @@
             <text>Export%20organizations%27%20basic%20data%20to%20Excel</text>
           </controlProperties>
         </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="22" y="531" w="-1" h="-1" measuredW="58" measuredH="19" zOrder="5" locked="false" isInGroup="14">
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="22" y="402" w="-1" h="-1" measuredW="136" measuredH="19" zOrder="5" locked="false" isInGroup="14">
           <controlProperties>
-            <text>Countries</text>
-          </controlProperties>
-        </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="495" w="-1" h="-1" measuredW="134" measuredH="27" zOrder="6" locked="false" isInGroup="14">
-          <controlProperties>
-            <text>Master%20data</text>
-          </controlProperties>
-        </control>
-        <control controlID="8" controlTypeID="com.balsamiq.mockups::Link" x="22" y="565" w="-1" h="-1" measuredW="31" measuredH="19" zOrder="7" locked="false" isInGroup="14">
-          <controlProperties>
-            <text>Skills</text>
-          </controlProperties>
-        </control>
-        <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="22" y="402" w="-1" h="-1" measuredW="136" measuredH="19" zOrder="8" locked="false" isInGroup="14">
-          <controlProperties>
+            <href>SysadminEditAboutUs%26bm%3BSysadminEditAboutUs.bmml%26bm%3BSysadminEditAboutUs.bmml%26bm%3BSysadminEditAboutUs.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222210%2C3374%2C2346%2C3393%22%20href%3D%22SysadminEditAboutUs.bmml%22%20alt%3D%22SysadminEditAboutUs%22%20id%3D%229%22/%3E</map>
             <text>Edit%20the%20About%20us%20page</text>
           </controlProperties>
         </control>
-        <control controlID="10" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="371" w="-1" h="-1" measuredW="139" measuredH="27" zOrder="9" locked="false" isInGroup="14">
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="371" w="-1" h="-1" measuredW="139" measuredH="27" zOrder="6" locked="false" isInGroup="14">
           <controlProperties>
             <text>Public%20pages</text>
           </controlProperties>
         </control>
-        <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="22" y="436" w="-1" h="-1" measuredW="71" measuredH="19" zOrder="10" locked="false" isInGroup="14">
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="22" y="436" w="-1" h="-1" measuredW="278" measuredH="19" zOrder="7" locked="false" isInGroup="14">
           <controlProperties>
-            <text>Newsletters</text>
+            <href>SysadminEditNewsletters%26bm%3BSysadminEditNewsletters.bmml%26bm%3BSysadminEditNewsletters.bmml%26bm%3BSysadminEditNewsletters.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222210%2C3408%2C2488%2C3427%22%20href%3D%22SysadminEditNewsletters.bmml%22%20alt%3D%22SysadminEditNewsletters%22%20id%3D%2211%22/%3E</map>
+            <text>Edit%20the%20Newsletters%20section%20on%20the%20Home%20page</text>
           </controlProperties>
         </control>
-        <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="22" y="277" w="-1" h="-1" measuredW="52" measuredH="19" zOrder="11" locked="false" isInGroup="14">
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="22" y="277" w="-1" h="-1" measuredW="52" measuredH="19" zOrder="8" locked="false" isInGroup="14">
           <controlProperties>
             <href>SysadminErrorLog%26bm%3BSysadminErrorLog.bmml%26bm%3BSysadminErrorLog.bmml%26bm%3BSysadminErrorLog.bmml</href>
             <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222210%2C3249%2C2262%2C3268%22%20href%3D%22SysadminErrorLog.bmml%22%20alt%3D%22SysadminErrorLog%22%20id%3D%2212%22/%3E</map>
             <text>Error%20log</text>
           </controlProperties>
         </control>
-        <control controlID="13" controlTypeID="com.balsamiq.mockups::Link" x="22" y="311" w="-1" h="-1" measuredW="66" measuredH="19" zOrder="12" locked="false" isInGroup="14">
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Link" x="22" y="311" w="-1" h="-1" measuredW="66" measuredH="19" zOrder="9" locked="false" isInGroup="14">
           <controlProperties>
             <href>SysadminActivityLog%26bm%3BSysadminActivityLog.bmml%26bm%3BSysadminActivityLog.bmml%26bm%3BSysadminActivityLog.bmml</href>
             <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222210%2C3283%2C2276%2C3302%22%20href%3D%22SysadminActivityLog.bmml%22%20alt%3D%22SysadminActivityLog%22%20id%3D%2213%22/%3E</map>
             <text>Activity%20log</text>
           </controlProperties>
         </control>
-        <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="24" y="185" w="-1" h="-1" measuredW="169" measuredH="19" zOrder="13" locked="false" isInGroup="14">
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="24" y="185" w="-1" h="-1" measuredW="169" measuredH="19" zOrder="10" locked="false" isInGroup="14">
           <controlProperties>
             <href>SysadminWithExportUserDataDialogProgress%26bm%3BSysadminWithExportUserDataDialogProgress.bmml%26bm%3BSysadminWithExportUserDataDialogProgress.bmml%26bm%3BSysadminWithExportUserDataDialogProgress.bmml</href>
             <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222212%2C3157%2C2381%2C3176%22%20href%3D%22SysadminWithExportUserDataDialogProgress.bmml%22%20alt%3D%22SysadminWithExportUserDataDialogProgress%22%20id%3D%2214%22/%3E</map>
