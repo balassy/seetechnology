@@ -1608,6 +1608,8 @@
         </control>
         <control controlID="13" controlTypeID="com.balsamiq.mockups::Link" x="22" y="311" w="-1" h="-1" measuredW="66" measuredH="19" zOrder="12" locked="false" isInGroup="14">
           <controlProperties>
+            <href>SysadminActivityLog%26bm%3BSysadminActivityLog.bmml%26bm%3BSysadminActivityLog.bmml%26bm%3BSysadminActivityLog.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222210%2C3283%2C2276%2C3302%22%20href%3D%22SysadminActivityLog.bmml%22%20alt%3D%22SysadminActivityLog%22%20id%3D%2213%22/%3E</map>
             <text>Activity%20log</text>
           </controlProperties>
         </control>
