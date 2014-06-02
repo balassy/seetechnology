@@ -1562,11 +1562,11 @@
             <text>Top-level%20organizations</text>
           </controlProperties>
         </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="24" y="151" w="-1" h="-1" measuredW="190" measuredH="19" zOrder="4" locked="false" isInGroup="14">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="24" y="151" w="-1" h="-1" measuredW="242" measuredH="19" zOrder="4" locked="false" isInGroup="14">
           <controlProperties>
             <href>SysadminWithExportOrgDataDialogProgress%26bm%3BSysadminWithExportOrgDataDialogProgress.bmml%26bm%3BSysadminWithExportOrgDataDialogProgress.bmml%26bm%3BSysadminWithExportOrgDataDialogProgress.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222212%2C3123%2C2402%2C3142%22%20href%3D%22SysadminWithExportOrgDataDialogProgress.bmml%22%20alt%3D%22SysadminWithExportOrgDataDialogProgress%22%20id%3D%225%22/%3E</map>
-            <text>Export%20organizations%27%20basic%20data</text>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222212%2C3123%2C2454%2C3142%22%20href%3D%22SysadminWithExportOrgDataDialogProgress.bmml%22%20alt%3D%22SysadminWithExportOrgDataDialogProgress%22%20id%3D%225%22/%3E</map>
+            <text>Export%20organizations%27%20basic%20data%20to%20Excel</text>
           </controlProperties>
         </control>
         <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="22" y="531" w="-1" h="-1" measuredW="58" measuredH="19" zOrder="5" locked="false" isInGroup="14">
@@ -1609,9 +1609,11 @@
             <text>Activity%20log</text>
           </controlProperties>
         </control>
-        <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="24" y="185" w="-1" h="-1" measuredW="117" measuredH="19" zOrder="13" locked="false" isInGroup="14">
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="24" y="185" w="-1" h="-1" measuredW="169" measuredH="19" zOrder="13" locked="false" isInGroup="14">
           <controlProperties>
-            <text>Export%20user%20profiles</text>
+            <href>SysadminWithExportUserDataDialogProgress%26bm%3BSysadminWithExportUserDataDialogProgress.bmml%26bm%3BSysadminWithExportUserDataDialogProgress.bmml%26bm%3BSysadminWithExportUserDataDialogProgress.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222212%2C3157%2C2381%2C3176%22%20href%3D%22SysadminWithExportUserDataDialogProgress.bmml%22%20alt%3D%22SysadminWithExportUserDataDialogProgress%22%20id%3D%2214%22/%3E</map>
+            <text>Export%20user%20profiles%20to%20Excel</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
