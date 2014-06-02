@@ -1455,8 +1455,10 @@
         </control>
         <control controlID="23" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="730" w="-1" h="-1" measuredW="446" measuredH="32" zOrder="23" locked="false" isInGroup="13">
           <controlProperties>
+            <href>ManageOrgWithRecommendationsOpened%26bm%3BManageOrgWithRecommendationsOpened.bmml%26bm%3BManageOrgWithRecommendationsOpened.bmml%26bm%3BManageOrgWithRecommendationsOpened.bmml</href>
             <icon>RightFillTriangleIcon%7Cxsmall</icon>
             <labelPosition>right</labelPosition>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222164%2C1393%2C2610%2C1425%22%20href%3D%22ManageOrgWithRecommendationsOpened.bmml%22%20alt%3D%22ManageOrgWithRecommendationsOpened%22%20id%3D%2223%22/%3E</map>
             <size>24</size>
             <text>%5BRecommendations%5D%20%281%20visible%20+%201%20hidden%29</text>
           </controlProperties>
