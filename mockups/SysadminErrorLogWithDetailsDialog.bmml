@@ -1,0 +1,68 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="990" mockupW="1024" mockupH="970">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="970" measuredW="1024" measuredH="970" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="970">
+          <text>Error%20log%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Admin/ErrorLog</text>
+        </override>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="100" y="841" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="415" controlTypeID="com.balsamiq.mockups::Title" x="98" y="198" w="-1" h="-1" measuredW="128" measuredH="35" zOrder="3" locked="true" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Error%20log</text>
+      </controlProperties>
+    </control>
+    <control controlID="416" controlTypeID="com.balsamiq.mockups::Link" x="858" y="206" w="-1" h="-1" measuredW="191" measuredH="19" zOrder="4" locked="true" isInGroup="-1">
+      <controlProperties>
+        <href>Sysadmin%26bm%3BSysadmin.bmml%26bm%3BSysadmin.bmml%26bm%3BSysadmin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22798%2C186%2C989%2C205%22%20href%3D%22Sysadmin.bmml%22%20alt%3D%22Sysadmin%22%20id%3D%22416%22/%3E</map>
+        <text>Return%20to%20System%20administration</text>
+      </controlProperties>
+    </control>
+    <control controlID="417" controlTypeID="com.balsamiq.mockups::DataGrid" x="100" y="248" w="949" h="578" measuredW="617" measuredH="81" zOrder="5" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20and%20time%20v%2C%20Client%20IP%2C%20Url%2C%20Description%0A2014.09.20.%2016%3A34%3A22%2C%20152.66.243.23%2C%20%5B/Org/BME%5D%2C%20%5BIndex%20was%20out%20of%20the%20bounds%20of%20the%20array%5D%0A2014.09.12.%2012%3A23%3A49%2C%20134.55.66.75%2C%20%5B/Search%3Fk%3D%5D%2C%20%5BHttpException%3A%20The%20request%20has%20been%20aborted%5D%0A%7B15C%2C%2015C%2C%2025%2C%2045%7D</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="418" controlTypeID="com.balsamiq.mockups::ModalScreen" x="60" y="80" w="1024" h="883" measuredW="320" measuredH="240" zOrder="6" locked="true" isInGroup="-1"/>
+    <control controlID="419" controlTypeID="com.balsamiq.mockups::Component" x="272" y="165" w="600" h="775" measuredW="600" measuredH="775" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22728%2C878%2C797%2C905%22%20href%3D%22SysadminErrorLog.bmml%22%20alt%3D%22SysadminErrorLog%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22781%2C173%2C797%2C189%22%20href%3D%22SysadminErrorLog.bmml%22%20alt%3D%22SysadminErrorLog%22%20id%3D%225%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="600" h="775"/>
+        <override controlID="1" x="17" y="23" w="-1" h="-1">
+          <text>Error%20details</text>
+        </override>
+        <override controlID="2" x="15" y="57" w="570" h="-1"/>
+        <override controlID="3" x="15" y="713" w="570" h="-1"/>
+        <override controlID="4" x="516" y="733" w="69" h="27">
+          <href>SysadminErrorLog%26bm%3BSysadminErrorLog.bmml%26bm%3BSysadminErrorLog.bmml%26bm%3BSysadminErrorLog.bmml</href>
+          <text>Close</text>
+        </override>
+        <override controlID="5" x="569" y="28" w="-1" h="-1">
+          <href>SysadminErrorLog%26bm%3BSysadminErrorLog.bmml%26bm%3BSysadminErrorLog.bmml%26bm%3BSysadminErrorLog.bmml</href>
+        </override>
+        <src>./assets/symbols.bmml%23Dialog</src>
+      </controlProperties>
+    </control>
+    <control controlID="420" controlTypeID="com.balsamiq.mockups::Paragraph" x="287" y="255" w="571" h="557" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Event%20code%3A%203001%0AEvent%20message%3A%20*The%20request%20has%20been%20aborted.*%0AEvent%20time%3A%205/24/2014%204%3A47%3A32%20PM%0AEvent%20time%20%28UTC%29%3A%205/24/2014%202%3A47%3A32%20PM%0AEvent%20ID%3A%20e41de23cbec642998e495b23c2b96b2b%0AEvent%20sequence%3A%20268691%0AEvent%20occurrence%3A%203%0AEvent%20detail%20code%3A%200%0A%20%0AApplication%20information%3A%0A%20Application%20domain%3A%20/LM/W3SVC/2/ROOT-1-130446317472444575%0A%20Trust%20level%3A%20Full%0A%20Application%20Virtual%20Path%3A%20/%0A%20Application%20Path%3A%20D%3A%5CWebSites%5CSEETech%5Cwwwroot%5C%0A%20Machine%20name%3A%20SEETECH%0A%20%0AProcess%20information%3A%0A%20Process%20ID%3A%201320%0A%20Process%20name%3A%20w3wp.exe%0A%20Account%20name%3A%20SEETech%5CWebService%0A%20%0AException%20information%3A%0A%20Exception%20type%3A%20System.Web.HttpException%0A%20Exception%20message%3A%20Request%20timed%20out.%0A%20%0ARequest%20information%3A%0A%20User%20host%20address%3A%2091.183.112.35%0A%20User%3A%20%0A%20Is%20authenticated%3A%20False%0A%20Authentication%20Type%3A%20%0A%20%0AThread%20information%3A%0A%20Thread%20ID%3A%208%0A%20Is%20impersonating%3A%20False%0A%20Stack%20trace%3A%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
