@@ -1564,6 +1564,8 @@
         </control>
         <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="24" y="151" w="-1" h="-1" measuredW="190" measuredH="19" zOrder="4" locked="false" isInGroup="14">
           <controlProperties>
+            <href>SysadminWithExportOrgDataDialogProgress%26bm%3BSysadminWithExportOrgDataDialogProgress.bmml%26bm%3BSysadminWithExportOrgDataDialogProgress.bmml%26bm%3BSysadminWithExportOrgDataDialogProgress.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222212%2C3123%2C2402%2C3142%22%20href%3D%22SysadminWithExportOrgDataDialogProgress.bmml%22%20alt%3D%22SysadminWithExportOrgDataDialogProgress%22%20id%3D%225%22/%3E</map>
             <text>Export%20organizations%27%20basic%20data</text>
           </controlProperties>
         </control>
