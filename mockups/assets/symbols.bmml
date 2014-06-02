@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="3723" measuredH="3639" mockupW="3663" mockupH="3595">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="3899" measuredH="3639" mockupW="3839" mockupH="3595">
   <controls>
     <control controlID="1" controlTypeID="__group__" x="98" y="1554" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -1534,7 +1534,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="14" controlTypeID="__group__" x="3399" y="1956" w="324" h="600" measuredW="324" measuredH="600" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="__group__" x="2248" y="3016" w="324" h="584" measuredW="324" measuredH="584" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>System%20administration</controlName>
       </controlProperties>
@@ -1550,69 +1550,187 @@
             <text>Organizations</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="2" y="262" w="-1" h="-1" measuredW="101" measuredH="27" zOrder="2" locked="false" isInGroup="14">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="246" w="-1" h="-1" measuredW="101" measuredH="27" zOrder="2" locked="false" isInGroup="14">
           <controlProperties>
             <text>Activities</text>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="24" y="117" w="-1" h="-1" measuredW="159" measuredH="19" zOrder="3" locked="false" isInGroup="14">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="24" y="117" w="-1" h="-1" measuredW="135" measuredH="19" zOrder="3" locked="false" isInGroup="14">
           <controlProperties>
-            <text>List%20top-level%20organizations</text>
+            <href>SysadminTopLevelOrgs%26bm%3BSysadminTopLevelOrgs.bmml%26bm%3BSysadminTopLevelOrgs.bmml%26bm%3BSysadminTopLevelOrgs.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222212%2C3089%2C2347%2C3108%22%20href%3D%22SysadminTopLevelOrgs.bmml%22%20alt%3D%22SysadminTopLevelOrgs%22%20id%3D%223%22/%3E</map>
+            <text>Top-level%20organizations</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="24" y="151" w="-1" h="-1" measuredW="198" measuredH="19" zOrder="4" locked="false" isInGroup="14">
-          <controlProperties>
-            <text>Create%20new%20top-level%20organization</text>
-          </controlProperties>
-        </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="24" y="185" w="-1" h="-1" measuredW="190" measuredH="19" zOrder="5" locked="false" isInGroup="14">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="24" y="151" w="-1" h="-1" measuredW="190" measuredH="19" zOrder="4" locked="false" isInGroup="14">
           <controlProperties>
             <text>Export%20organizations%27%20basic%20data</text>
           </controlProperties>
         </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="24" y="547" w="-1" h="-1" measuredW="58" measuredH="19" zOrder="6" locked="false" isInGroup="14">
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="22" y="531" w="-1" h="-1" measuredW="58" measuredH="19" zOrder="5" locked="false" isInGroup="14">
           <controlProperties>
             <text>Countries</text>
           </controlProperties>
         </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="2" y="511" w="-1" h="-1" measuredW="134" measuredH="27" zOrder="7" locked="false" isInGroup="14">
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="495" w="-1" h="-1" measuredW="134" measuredH="27" zOrder="6" locked="false" isInGroup="14">
           <controlProperties>
             <text>Master%20data</text>
           </controlProperties>
         </control>
-        <control controlID="8" controlTypeID="com.balsamiq.mockups::Link" x="24" y="581" w="-1" h="-1" measuredW="31" measuredH="19" zOrder="8" locked="false" isInGroup="14">
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Link" x="22" y="565" w="-1" h="-1" measuredW="31" measuredH="19" zOrder="7" locked="false" isInGroup="14">
           <controlProperties>
             <text>Skills</text>
           </controlProperties>
         </control>
-        <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="24" y="418" w="-1" h="-1" measuredW="136" measuredH="19" zOrder="9" locked="false" isInGroup="14">
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="22" y="402" w="-1" h="-1" measuredW="136" measuredH="19" zOrder="8" locked="false" isInGroup="14">
           <controlProperties>
             <text>Edit%20the%20About%20us%20page</text>
           </controlProperties>
         </control>
-        <control controlID="10" controlTypeID="com.balsamiq.mockups::SubTitle" x="2" y="387" w="-1" h="-1" measuredW="139" measuredH="27" zOrder="10" locked="false" isInGroup="14">
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="371" w="-1" h="-1" measuredW="139" measuredH="27" zOrder="9" locked="false" isInGroup="14">
           <controlProperties>
             <text>Public%20pages</text>
           </controlProperties>
         </control>
-        <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="24" y="452" w="-1" h="-1" measuredW="71" measuredH="19" zOrder="11" locked="false" isInGroup="14">
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="22" y="436" w="-1" h="-1" measuredW="71" measuredH="19" zOrder="10" locked="false" isInGroup="14">
           <controlProperties>
             <text>Newsletters</text>
           </controlProperties>
         </control>
-        <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="24" y="293" w="-1" h="-1" measuredW="52" measuredH="19" zOrder="12" locked="false" isInGroup="14">
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="22" y="277" w="-1" h="-1" measuredW="52" measuredH="19" zOrder="11" locked="false" isInGroup="14">
           <controlProperties>
             <text>Error%20log</text>
           </controlProperties>
         </control>
-        <control controlID="13" controlTypeID="com.balsamiq.mockups::Link" x="24" y="327" w="-1" h="-1" measuredW="66" measuredH="19" zOrder="13" locked="false" isInGroup="14">
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Link" x="22" y="311" w="-1" h="-1" measuredW="66" measuredH="19" zOrder="12" locked="false" isInGroup="14">
           <controlProperties>
             <text>Activity%20log</text>
           </controlProperties>
         </control>
-        <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="24" y="219" w="-1" h="-1" measuredW="117" measuredH="19" zOrder="14" locked="false" isInGroup="14">
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="24" y="185" w="-1" h="-1" measuredW="117" measuredH="19" zOrder="13" locked="false" isInGroup="14">
           <controlProperties>
             <text>Export%20user%20profiles</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="15" controlTypeID="__group__" x="2948" y="3016" w="951" h="582" measuredW="951" measuredH="582" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>System%20administration%20top-level%20organizations</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="-1" h="-1" measuredW="332" measuredH="35" zOrder="0" locked="false" isInGroup="15">
+          <controlProperties>
+            <size>32</size>
+            <text>Top-level%20organizations</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="80" w="100" h="100" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="15"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="36" y="153" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="2" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Logo</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="109" y="107" w="-1" h="-1" measuredW="118" measuredH="21" zOrder="3" locked="false" isInGroup="15">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Budapest%2C%20Hungary</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="0" y="213" w="100" h="100" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="15"/>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="36" y="286" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="5" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Logo</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="109" y="240" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="6" locked="false" isInGroup="15">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Maribor%2C%20Slovenia</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="2" y="349" w="100" h="100" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="15"/>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="38" y="422" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="8" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Logo</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="111" y="376" w="-1" h="-1" measuredW="82" measuredH="21" zOrder="9" locked="false" isInGroup="15">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Graz%2C%20Austria</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Link" x="109" y="80" w="-1" h="-1" measuredW="411" measuredH="24" zOrder="10" locked="false" isInGroup="15">
+          <controlProperties>
+            <href>OrgProfile%26bm%3BOrgProfile.bmml%26bm%3BOrgProfile.bmml%26bm%3BOrgProfile.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222997%2C3052%2C3408%2C3076%22%20href%3D%22OrgProfile.bmml%22%20alt%3D%22OrgProfile%22%20id%3D%2210%22/%3E</map>
+            <size>18</size>
+            <text>Budapest%20University%20of%20Technology%20and%20Economics</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="109" y="213" w="-1" h="-1" measuredW="171" measuredH="24" zOrder="11" locked="false" isInGroup="15">
+          <controlProperties>
+            <size>18</size>
+            <text>University%20of%20Maribor</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="111" y="349" w="-1" h="-1" measuredW="148" measuredH="24" zOrder="12" locked="false" isInGroup="15">
+          <controlProperties>
+            <size>18</size>
+            <text>University%20of%20Graz</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="2" y="482" w="100" h="100" measuredW="77" measuredH="79" zOrder="13" locked="false" isInGroup="15"/>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="38" y="555" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="14" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Logo</text>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="111" y="509" w="-1" h="-1" measuredW="118" measuredH="21" zOrder="15" locked="false" isInGroup="15">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Bratislava%2C%20Slovakia</text>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::Link" x="111" y="482" w="-1" h="-1" measuredW="270" measuredH="24" zOrder="16" locked="false" isInGroup="15">
+          <controlProperties>
+            <size>18</size>
+            <text>Comenius%20University%20in%20Bratislava</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::Link" x="760" y="8" w="-1" h="-1" measuredW="191" measuredH="19" zOrder="17" locked="false" isInGroup="15">
+          <controlProperties>
+            <href>Sysadmin%26bm%3BSysadmin.bmml%26bm%3BSysadmin.bmml%26bm%3BSysadmin.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%223648%2C2980%2C3839%2C2999%22%20href%3D%22Sysadmin.bmml%22%20alt%3D%22Sysadmin%22%20id%3D%2217%22/%3E</map>
+            <text>Return%20to%20System%20administration</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="com.balsamiq.mockups::Link" x="912" y="83" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="18" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Delete</text>
+          </controlProperties>
+        </control>
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::Link" x="912" y="216" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="19" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Delete</text>
+          </controlProperties>
+        </control>
+        <control controlID="20" controlTypeID="com.balsamiq.mockups::Link" x="912" y="349" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="20" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Delete</text>
+          </controlProperties>
+        </control>
+        <control controlID="21" controlTypeID="com.balsamiq.mockups::Link" x="912" y="485" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="21" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Delete</text>
+          </controlProperties>
+        </control>
+        <control controlID="22" controlTypeID="com.balsamiq.mockups::Link" x="771" y="42" w="-1" h="-1" measuredW="180" measuredH="19" zOrder="22" locked="false" isInGroup="15">
+          <controlProperties>
+            <href>SysadminTopLevelOrgsWithAddDialog%26bm%3BSysadminTopLevelOrgsWithAddDialog.bmml%26bm%3BSysadminTopLevelOrgsWithAddDialog.bmml%26bm%3BSysadminTopLevelOrgsWithAddDialog.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%223659%2C3014%2C3839%2C3033%22%20href%3D%22SysadminTopLevelOrgsWithAddDialog.bmml%22%20alt%3D%22SysadminTopLevelOrgsWithAddDialog%22%20id%3D%2222%22/%3E</map>
+            <text>Add%20new%20top-level%20organization</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
