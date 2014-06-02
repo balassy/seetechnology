@@ -1,0 +1,263 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="1714" mockupW="1024" mockupH="1694">
+  <controls>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="1024" h="1694" measuredW="1024" measuredH="1694" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1024" h="1694">
+          <text>Manage%20BME%20-%20SEETechnology%0Ahttp%3A//www.seetechnology.eu/Manage/BME</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml%23Frame</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="100" y="1564" w="949" h="85" measuredW="949" measuredH="85" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml%23Footer</src>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Component" x="60" y="80" w="1024" h="70" measuredW="1024" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C70%2C227%2C120%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C83%2C320%2C107%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C83%2C470%2C107%22%20href%3D%22Find.bmml%22%20alt%3D%22Find%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C81%2C657%2C109%22%20href%3D%22Search.bmml%22%20alt%3D%22Search%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22816%2C83%2C941%2C107%22%20href%3D%22HomeWithProfilePopover.bmml%22%20alt%3D%22HomeWithProfilePopover%22%20id%3D%2213%22/%3E</map>
+        <src>./assets/symbols.bmml%23Header%2520-%2520Logged%2520in</src>
+      </controlProperties>
+    </control>
+    <control controlID="393" controlTypeID="com.balsamiq.mockups::Component" x="83" y="198" w="962" h="1315" measuredW="962" measuredH="1315" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22822%2C186%2C984%2C205%22%20href%3D%22MyOrganizations.bmml%22%20alt%3D%22MyOrganizations%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22924%2C240%2C984%2C259%22%20href%3D%22ManageOrgWithEditNameDialog.bmml%22%20alt%3D%22ManageOrgWithEditNameDialog%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C300%2C985%2C319%22%20href%3D%22ManageOrgWithEditLogoDialog.bmml%22%20alt%3D%22ManageOrgWithEditLogoDialog%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22911%2C326%2C984%2C345%22%20href%3D%22ManageOrgWithEditContactDialog.bmml%22%20alt%3D%22ManageOrgWithEditContactDialog%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22924%2C446%2C984%2C465%22%20href%3D%22ManageOrgWithEditUrlsDialog.bmml%22%20alt%3D%22ManageOrgWithEditUrlsDialog%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C665%2C100%2C697%22%20href%3D%22ManageOrgWithHeadOpened.bmml%22%20alt%3D%22ManageOrgWithHeadOpened%22%20id%3D%2217%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C725%2C237%2C757%22%20href%3D%22ManageOrgWithAdminsOpened.bmml%22%20alt%3D%22ManageOrgWithAdminsOpened%22%20id%3D%2218%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C604%2C166%2C636%22%20href%3D%22ManageOrgWithDescriptionOpened.bmml%22%20alt%3D%22ManageOrgWithDescriptionOpened%22%20id%3D%2219%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22891%2C611%2C984%2C630%22%20href%3D%22ManageOrgWithDescriptionEditDialog.bmml%22%20alt%3D%22ManageOrgWithDescriptionEditDialog%22%20id%3D%2220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C786%2C295%2C818%22%20href%3D%22ManageOrgWithSkillsOpened.bmml%22%20alt%3D%22ManageOrgWithSkillsOpened%22%20id%3D%2221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C847%2C448%2C879%22%20href%3D%22ManageOrgWithMembersOpened.bmml%22%20alt%3D%22ManageOrgWithMembersOpened%22%20id%3D%2222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C908%2C469%2C940%22%20href%3D%22ManageOrgWithRecommendationsOpened.bmml%22%20alt%3D%22ManageOrgWithRecommendationsOpened%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C968%2C491%2C1000%22%20href%3D%22ManageOrg.bmml%22%20alt%3D%22ManageOrg%22%20id%3D%2224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22905%2C672%2C984%2C691%22%20href%3D%22ManageOrgWithHeadEditDialog.bmml%22%20alt%3D%22ManageOrgWithHeadEditDialog%22%20id%3D%2226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22880%2C732%2C984%2C751%22%20href%3D%22ManageOrgWithAdminsAddDialog.bmml%22%20alt%3D%22ManageOrgWithAdminsAddDialog%22%20id%3D%2227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22935%2C793%2C984%2C812%22%20href%3D%22ManageOrgWithSkillsAddDialog.bmml%22%20alt%3D%22ManageOrgWithSkillsAddDialog%22%20id%3D%2228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22909%2C854%2C984%2C873%22%20href%3D%22ManageOrgWithMembersAddDialog.bmml%22%20alt%3D%22ManageOrgWithMembersAddDialog%22%20id%3D%2229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22886%2C975%2C984%2C994%22%20href%3D%22ManageOrgWithOrgsAddDialog.bmml%22%20alt%3D%22ManageOrgWithOrgsAddDialog%22%20id%3D%2230%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22895%2C271%2C984%2C290%22%20href%3D%22ManageOrgWithEditParentDialog.bmml%22%20alt%3D%22ManageOrgWithEditParentDialog%22%20id%3D%2231%22/%3E</map>
+        <override controlID="0" x="15" y="0" w="-1" h="-1"/>
+        <override controlID="1" x="799" y="8" w="-1" h="-1"/>
+        <override controlID="2" x="130" y="58" w="-1" h="-1"/>
+        <override controlID="3" x="130" y="92" w="-1" h="-1"/>
+        <override controlID="4" x="200" y="92" w="-1" h="-1"/>
+        <override controlID="5" x="15" y="52" w="100" h="100"/>
+        <override controlID="6" x="51" y="121" w="-1" h="-1"/>
+        <override controlID="7" x="901" y="62" w="-1" h="-1"/>
+        <override controlID="8" x="888" y="122" w="-1" h="-1"/>
+        <override controlID="9" x="130" y="142" w="250" h="110"/>
+        <override controlID="10" x="888" y="148" w="-1" h="-1"/>
+        <override controlID="11" x="130" y="267" w="-1" h="-1"/>
+        <override controlID="12" x="130" y="288" w="-1" h="-1"/>
+        <override controlID="13" x="130" y="309" w="-1" h="-1"/>
+        <override controlID="14" x="130" y="330" w="-1" h="-1"/>
+        <override controlID="15" x="130" y="351" w="-1" h="-1"/>
+        <override controlID="16" x="901" y="268" w="-1" h="-1"/>
+        <override controlID="17" x="0" y="487" w="-1" h="-1"/>
+        <override controlID="18" x="0" y="547" w="-1" h="-1"/>
+        <override controlID="19" x="0" y="426" w="-1" h="-1"/>
+        <override controlID="20" x="868" y="433" w="-1" h="-1"/>
+        <override controlID="21" x="0" y="608" w="-1" h="-1"/>
+        <override controlID="22" x="0" y="669" w="-1" h="-1"/>
+        <override controlID="23" x="0" y="730" w="-1" h="-1"/>
+        <override controlID="24" x="0" y="790" w="-1" h="-1">
+          <href>ManageOrg%26bm%3BManageOrg.bmml%26bm%3BManageOrg.bmml%26bm%3BManageOrg.bmml</href>
+          <icon>DownFillTriangleIcon%7Cxsmall</icon>
+        </override>
+        <override controlID="25" x="0" y="1283" w="-1" h="-1"/>
+        <override controlID="26" x="882" y="494" w="-1" h="-1"/>
+        <override controlID="27" x="857" y="554" w="-1" h="-1"/>
+        <override controlID="28" x="912" y="615" w="-1" h="-1"/>
+        <override controlID="29" x="886" y="676" w="-1" h="-1"/>
+        <override controlID="30" x="863" y="797" w="-1" h="-1"/>
+        <override controlID="31" x="872" y="93" w="-1" h="-1"/>
+        <override controlID="32" x="693" y="493" w="-1" h="-1"/>
+        <src>./assets/symbols.bmml%23Manage%2520org</src>
+      </controlProperties>
+    </control>
+    <control controlID="394" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1034" w="-1" h="-1" measuredW="162" measuredH="21" zOrder="4" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Civil%20Engineering%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="395" controlTypeID="com.balsamiq.mockups::Link" x="1003" y="1034" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="5" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="396" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1064" w="-1" h="-1" measuredW="203" measuredH="21" zOrder="6" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Mechanical%20Engineering%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="397" controlTypeID="com.balsamiq.mockups::Link" x="1003" y="1065" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="7" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="398" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1095" w="-1" h="-1" measuredW="209" measuredH="21" zOrder="8" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20or%20Architecture%20Engineering%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="399" controlTypeID="com.balsamiq.mockups::Link" x="1003" y="1095" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="9" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="400" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1125" w="-1" h="-1" measuredW="296" measuredH="21" zOrder="10" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Chemical%20Technology%20and%20Biotechnology%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="401" controlTypeID="com.balsamiq.mockups::Link" x="1003" y="1126" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="11" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="402" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1156" w="-1" h="-1" measuredW="367" measuredH="21" zOrder="12" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Transportation%20Engineering%20and%20Vehicle%20Engineering%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="403" controlTypeID="com.balsamiq.mockups::Link" x="1003" y="1156" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="13" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="404" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1188" w="-1" h="-1" measuredW="163" measuredH="21" zOrder="14" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Natural%20Sciences%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="405" controlTypeID="com.balsamiq.mockups::Link" x="1003" y="1188" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="15" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="406" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1224" w="-1" h="-1" measuredW="244" measuredH="21" zOrder="16" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>%5BFaculty%20of%20Economic%20and%20Social%20Sciences%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="407" controlTypeID="com.balsamiq.mockups::Link" x="1003" y="1224" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="17" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="408" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1256" w="-1" h="-1" measuredW="226" measuredH="21" zOrder="18" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>%5BElectrical%20Engineering%20and%20Informatics%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="409" controlTypeID="com.balsamiq.mockups::Link" x="1003" y="1256" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="19" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="410" controlTypeID="com.balsamiq.mockups::Link" x="927" y="1034" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="20" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="411" controlTypeID="com.balsamiq.mockups::Link" x="927" y="1065" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="21" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="412" controlTypeID="com.balsamiq.mockups::Link" x="927" y="1095" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="22" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="413" controlTypeID="com.balsamiq.mockups::Link" x="927" y="1126" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="23" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="414" controlTypeID="com.balsamiq.mockups::Link" x="927" y="1156" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="24" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="415" controlTypeID="com.balsamiq.mockups::Link" x="927" y="1188" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="25" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="416" controlTypeID="com.balsamiq.mockups::Link" x="927" y="1224" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="26" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="417" controlTypeID="com.balsamiq.mockups::Link" x="927" y="1256" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="27" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="419" controlTypeID="com.balsamiq.mockups::SubTitle" x="100" y="1324" w="-1" h="-1" measuredW="568" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>These%20people%20want%20to%20create%20new%20sub-organizations%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="420" controlTypeID="com.balsamiq.mockups::Webcam" x="152" y="1381" w="50" h="50" measuredW="177" measuredH="146" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="421" controlTypeID="com.balsamiq.mockups::Label" x="208" y="1381" w="-1" h="-1" measuredW="97" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5BDavid%20Bourne%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="422" controlTypeID="com.balsamiq.mockups::Label" x="208" y="1405" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sr.%20Software%20Engineer</text>
+      </controlProperties>
+    </control>
+    <control controlID="423" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1358" w="-1" h="-1" measuredW="245" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Applied%20Mobile%20Research%20Group%20%28AMORG%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="424" controlTypeID="com.balsamiq.mockups::Link" x="920" y="1366" w="-1" h="-1" measuredW="49" measuredH="19" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Approve</text>
+      </controlProperties>
+    </control>
+    <control controlID="425" controlTypeID="com.balsamiq.mockups::Link" x="1004" y="1366" w="-1" h="-1" measuredW="40" measuredH="19" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reject</text>
+      </controlProperties>
+    </control>
+    <control controlID="427" controlTypeID="com.balsamiq.mockups::ModalScreen" x="60" y="80" w="1024" h="1608" measuredW="320" measuredH="240" zOrder="35" locked="false" isInGroup="-1"/>
+    <control controlID="428" controlTypeID="com.balsamiq.mockups::Component" x="272" y="1040" w="600" h="268" measuredW="600" measuredH="268" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22717%2C1246%2C797%2C1273%22%20href%3D%22ManageOrgWithOrgsOpened.bmml%22%20alt%3D%22ManageOrgWithOrgsOpened%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22781%2C1048%2C797%2C1064%22%20href%3D%22ManageOrgWithOrgsOpened.bmml%22%20alt%3D%22ManageOrgWithOrgsOpened%22%20id%3D%225%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="600" h="268"/>
+        <override controlID="1" x="17" y="23" w="-1" h="-1">
+          <text>Delete%20sub-organization</text>
+        </override>
+        <override controlID="2" x="15" y="57" w="570" h="-1"/>
+        <override controlID="3" x="15" y="206" w="570" h="-1"/>
+        <override controlID="4" x="505" y="226" w="-1" h="-1">
+          <href>ManageOrgWithOrgsOpened%26bm%3BManageOrgWithOrgsOpened.bmml%26bm%3BManageOrgWithOrgsOpened.bmml%26bm%3BManageOrgWithOrgsOpened.bmml</href>
+          <state>selected</state>
+          <text>Cancel</text>
+        </override>
+        <override controlID="5" x="569" y="28" w="-1" h="-1">
+          <href>ManageOrgWithOrgsOpened%26bm%3BManageOrgWithOrgsOpened.bmml%26bm%3BManageOrgWithOrgsOpened.bmml%26bm%3BManageOrgWithOrgsOpened.bmml</href>
+        </override>
+        <src>./assets/symbols.bmml%23Dialog</src>
+      </controlProperties>
+    </control>
+    <control controlID="429" controlTypeID="com.balsamiq.mockups::Paragraph" x="291" y="1120" w="562" h="80" measuredW="200" measuredH="80" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Are%20you%20sure%20you%20want%20to%20delete%20*Faculty%20of%20Civil%20Engineering*%3F%0A%20%0ABy%20clicking%20Delete%20you%20will%20erase%20all%20data%20related%20to%20this%20organization%2C%20including%20members%2C%20endorsements%20and%20recommendations.%20This%20action%20cannot%20be%20undone%20later%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="430" controlTypeID="com.balsamiq.mockups::CheckBox" x="291" y="1204" w="-1" h="-1" measuredW="416" measuredH="22" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManageOrgWithOrgsDeleteDialog%26bm%3BManageOrgWithOrgsDeleteDialog.bmml%26bm%3BManageOrgWithOrgsDeleteDialog.bmml%26bm%3BManageOrgWithOrgsDeleteDialog.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22231%2C1184%2C647%2C1206%22%20href%3D%22ManageOrgWithOrgsDeleteDialog.bmml%22%20alt%3D%22ManageOrgWithOrgsDeleteDialog%22%20id%3D%22430%22/%3E</map>
+        <state>selected</state>
+        <text>I%20understand%20that%20I%20will%20lose%20all%20data%20of%20*Faculty%20of%20Civil%20Engineering*</text>
+      </controlProperties>
+    </control>
+    <control controlID="431" controlTypeID="com.balsamiq.mockups::Button" x="693" y="1265" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManageOrgWithOrgsDeleteDialogProgress%26bm%3BManageOrgWithOrgsDeleteDialogProgress.bmml%26bm%3BManageOrgWithOrgsDeleteDialogProgress.bmml%26bm%3BManageOrgWithOrgsDeleteDialogProgress.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22633%2C1245%2C709%2C1272%22%20href%3D%22ManageOrgWithOrgsDeleteDialogProgress.bmml%22%20alt%3D%22ManageOrgWithOrgsDeleteDialogProgress%22%20id%3D%22431%22/%3E</map>
+        <size>18</size>
+        <state>up</state>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

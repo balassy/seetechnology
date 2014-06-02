@@ -1465,8 +1465,10 @@
         </control>
         <control controlID="24" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="790" w="-1" h="-1" measuredW="468" measuredH="32" zOrder="24" locked="false" isInGroup="13">
           <controlProperties>
+            <href>ManageOrgWithOrgsOpened%26bm%3BManageOrgWithOrgsOpened.bmml%26bm%3BManageOrgWithOrgsOpened.bmml%26bm%3BManageOrgWithOrgsOpened.bmml</href>
             <icon>RightFillTriangleIcon%7Cxsmall</icon>
             <labelPosition>right</labelPosition>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222164%2C1453%2C2632%2C1485%22%20href%3D%22ManageOrgWithOrgsOpened.bmml%22%20alt%3D%22ManageOrgWithOrgsOpened%22%20id%3D%2224%22/%3E</map>
             <size>24</size>
             <text>%5BOrganizations%5D%20%288%20+%201%20waiting%20for%20approval%29</text>
           </controlProperties>
@@ -1509,6 +1511,8 @@
         </control>
         <control controlID="30" controlTypeID="com.balsamiq.mockups::Link" x="863" y="797" w="-1" h="-1" measuredW="98" measuredH="19" zOrder="30" locked="false" isInGroup="13">
           <controlProperties>
+            <href>ManageOrgWithOrgsAddDialog%26bm%3BManageOrgWithOrgsAddDialog.bmml%26bm%3BManageOrgWithOrgsAddDialog.bmml%26bm%3BManageOrgWithOrgsAddDialog.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%223027%2C1460%2C3125%2C1479%22%20href%3D%22ManageOrgWithOrgsAddDialog.bmml%22%20alt%3D%22ManageOrgWithOrgsAddDialog%22%20id%3D%2230%22/%3E</map>
             <text>Add%20organization</text>
           </controlProperties>
         </control>
